@@ -27,7 +27,7 @@ class MyClient(Client):
         self.recvFile = recvFile
 
         self.last_send_time: float = time.time()
-        self.send_timeout: float = 2
+        self.send_timeout: float = 5
         self.awaiting_ack: bool = False
         self.content: str = ""
         """add your own class fields and initialization code here"""
@@ -102,10 +102,10 @@ class MyClient(Client):
         if self.connEstablished == 1 and self.connTerminate == 0:
             if not self.awaiting_ack:
                 self.content = self.sendFile.read(self.MSS)  # read MSS bytes from sendFile
-            elif time.time() - self.last_send_time < self.send_timeout:
+            elif self.awaiting_ack and time.time() - self.last_send_time <= self.send_timeout:
                 return
             if self.content:
-                packet = Packet("A", "B", 0, 0, 0, 1, 0, content)  # create a packet
+                packet = Packet("A", "B", 0, 0, 0, 1, 0, self.content)  # create a packet
                 if self.link:
                     self.link.send(packet, self.addr)  # send packet out into the network
                     self.awaiting_ack = True

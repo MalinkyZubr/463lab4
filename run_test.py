@@ -21,7 +21,24 @@ class NetworkTestResults(BaseModel):
     bytes: int
     time: float
 
-TO_TEST = [0]
+
+def remove_all_files_in_directory(folder):
+    """
+    Removes all files within a specified directory.
+    Subdirectories and their contents are not affected.
+    """
+    for filename in os.listdir(folder):
+        file_path = os.path.join(folder, filename)
+        try:
+            if os.path.isfile(file_path) or os.path.islink(file_path):
+                os.unlink(file_path)
+            elif os.path.isdir(file_path):
+                shutil.rmtree(file_path)
+        except Exception as e:
+            print('Failed to delete %s. Reason: %s' % (file_path, e))
+
+
+TO_TEST = []
 
 def extract_baselines(baseline_filepath: Path) -> dict[str, dict[int, NetworkTestResults]]:
     return_value: dict[str, dict[int, NetworkTestResults]] = dict()
@@ -39,6 +56,7 @@ def extract_baselines(baseline_filepath: Path) -> dict[str, dict[int, NetworkTes
 class TestNetworkFlow(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
+        remove_all_files_in_directory(OUTPUT_PATH)
         cls.baseline_values = extract_baselines(BASELINE_PATH)
         assert len(cls.baseline_values) > 0, "No baselines provided"
         assert len(set(filter(lambda x: ".txt" in x, os.listdir(INPUT_PATH))).difference(
@@ -95,7 +113,7 @@ def _attach_dynamic_tests():
     baseline_percentages = list(list(baselines.values())[0].keys())
 
     for pct in baseline_percentages:
-        if pct in TO_TEST:
+        if pct in TO_TEST or not TO_TEST:
             setattr(TestNetworkFlow, f"test_error_rate{pct}", TestNetworkFlow._make_test_cls(pct))
 
 
