@@ -1,0 +1,2 @@
+Packet - srcAddr: B dstAddr: A seqNum: 0 ackNum: 1 SYNFLag: 1 ACKFlag: 1 FINFlag: 0 Payload: None
+Packet - srcAddr: B dstAddr: A seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 1 Payload: None

@@ -1,0 +1,23 @@
+Packet 1 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 1 ACKFlag: 0 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: None
+Packet 2 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 1 SYNFLag: 1 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 3 - srcAddr: A dstAddr: B seqNum: 1 ackNum: 1 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: None
+Packet 4 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:             ___
+           /\  \
+          /  \/ \
+     ___  \   O /  ___
+    /    \ \   / /    \
+   /   __ -    -  __   \
+  /___/ | <>   <> | \___\                                                     
+  O  ___|    ^    |___  O
+   /     \  -^-  /    \
+  / 
+Packet 5 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   /\  \_____/ /\   \
+  \_ / /          \ \_ /
+  O   /   /\   /\  \  O
+       \ /  \ /  \ /
+        O    O    O
+
+
+Packet 6 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 1 Received on port: 1 Forwarded on port: 2 Payload: None
+Packet 7 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 1 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 8 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: None

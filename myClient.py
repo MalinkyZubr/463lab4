@@ -7,6 +7,11 @@ import queue
 from client import Client
 from packet import Packet
 
+
+def generate_ack_packet() -> Packet:
+    pass
+
+
 class MyClient(Client):
     """Implement a reliable transport"""
 
@@ -20,8 +25,53 @@ class MyClient(Client):
         self.connTerminate = 0
         self.sendFile = sendFile
         self.recvFile = recvFile
+
+        self.last_send_time: float = time.time()
+        self.send_timeout: float = 2
+        self.awaiting_ack: bool = False
+        self.content: str = ""
         """add your own class fields and initialization code here"""
 
+
+    def sender_receive(self, packet: Packet):
+        if packet.synFlag == 1 and packet.ackFlag == 1:  # received a SYN-ACK packet
+            packet = Packet("A", "B", 1, 1, 0, 1, 0, None)  # create an ACK packet
+            if self.link:
+                self.link.send(packet, self.addr)  # send ACK packet out into the network
+            self.connEstablished = 1
+
+        elif packet.finFlag == 1 and packet.ackFlag == 1:  # received a FIN-ACK packet
+            packet = Packet("A", "B", 0, 0, 0, 1, 0, None)  # create an ACK packet
+            if self.link:
+                self.link.send(packet, self.addr)  # send ACK packet out into the network
+
+        elif packet.ackFlag == 1:
+            self.awaiting_ack = False
+
+    def receiver_receive(self, packet: Packet):
+        if packet.synFlag == 1:  # received a SYN packet
+            packet = Packet("B", "A", 0, 1, 1, 1, 0, None)  # create a SYN-ACK packet
+            if self.link:
+                self.link.send(packet, self.addr)  # send SYN-ACK packet out into the network
+            self.connSetup = 1
+
+        elif packet.finFlag == 1:  # received a FIN packet
+            packet = Packet("B", "A", 0, 0, 0, 1, 1, None)  # create a FIN-ACK packet
+            if self.link:
+                self.link.send(packet, self.addr)  # send FIN-ACK packet out into the network
+            self.connTerminate = 1
+
+        elif self.connSetup == 1 and packet.ackFlag == 1:  # received an ACK packet for SYN-ACK
+            self.connSetup = 0
+
+        elif self.connTerminate == 1 and packet.ackFlag == 1:  # received an ACK packet for FIN-ACK
+            self.connTerminate = 0
+
+        elif packet.ackFlag == 1 and self.connSetup == 0 and self.connTerminate == 0:  # received a data packet
+            self.recvFile.write(packet.payload)  # write the contents of the packet to recvFile
+            ack_packet = Packet("B", "A", 0, 0, 0, 1, 0, None)
+            if self.link:
+                self.link.send(ack_packet, self.addr)
 
     def handleRecvdPackets(self):
         """Handle packets recvd from the network.
@@ -36,40 +86,39 @@ class MyClient(Client):
 
                 # handle recvd packets for client A (sender of the file)
                 if self.addr == "A":
-                    if packet.synFlag == 1 and packet.ackFlag == 1: # received a SYN-ACK packet
-                        packet = Packet("A", "B", 1, 1, 0, 1, 0, None) # create an ACK packet
-                        if self.link:
-                            self.link.send(packet, self.addr) # send ACK packet out into the network
-                        self.connEstablished = 1
-
-                    elif packet.finFlag == 1 and packet.ackFlag == 1: # received a FIN-ACK packet
-                        packet = Packet("A", "B", 0, 0, 0, 1, 0, None) # create an ACK packet
-                        if self.link:
-                            self.link.send(packet, self.addr) # send ACK packet out into the network
+                    self.sender_receive(packet)
 
                 # handle recvd packets for client B (receiver of the file)
                 if self.addr == "B":
-                    if packet.synFlag == 1: # received a SYN packet
-                        packet = Packet("B", "A", 0, 1, 1, 1, 0, None) # create a SYN-ACK packet
-                        if self.link:
-                            self.link.send(packet, self.addr) # send SYN-ACK packet out into the network
-                        self.connSetup = 1
+                    self.receiver_receive(packet)
 
-                    elif packet.finFlag == 1: # received a FIN packet
-                        packet = Packet("B", "A", 0, 0, 0, 1, 1, None) # create a FIN-ACK packet
-                        if self.link:
-                            self.link.send(packet, self.addr) # send FIN-ACK packet out into the network
-                        self.connTerminate = 1
+    def sender_send(self):
+        if self.connSetup == 0:
+            packet = Packet("A", "B", 0, 0, 1, 0, 0, None)  # create a SYN packet
+            if self.link:
+                self.link.send(packet, self.addr)  # send SYN packet out into the network
+            self.connSetup = 1
 
-                    elif self.connSetup == 1 and packet.ackFlag == 1: # received an ACK packet for SYN-ACK
-                        self.connSetup = 0
+        if self.connEstablished == 1 and self.connTerminate == 0:
+            if not self.awaiting_ack:
+                self.content = self.sendFile.read(self.MSS)  # read MSS bytes from sendFile
+            elif time.time() - self.last_send_time < self.send_timeout:
+                return
+            if self.content:
+                packet = Packet("A", "B", 0, 0, 0, 1, 0, content)  # create a packet
+                if self.link:
+                    self.link.send(packet, self.addr)  # send packet out into the network
+                    self.awaiting_ack = True
+                    self.last_send_time = time.time()
+            else:
+                # start connection termination
+                packet = Packet("A", "B", 0, 0, 0, 1, 1, None)  # create a FIN packet
+                if self.link:
+                    self.link.send(packet, self.addr)  # send FIN packet out into the network
+                self.connTerminate = 1
 
-                    elif self.connTerminate == 1 and packet.ackFlag == 1: # received an ACK packet for FIN-ACK
-                        self.connTerminate = 0
-
-                    elif packet.ackFlag == 1 and self.connSetup == 0 and self.connTerminate == 0: # received a data packet
-                            self.recvFile.write(packet.payload) # write the contents of the packet to recvFile
-
+    def receiver_send(self):
+        pass
 
     def sendPackets(self):
         """Send packets into the network.
@@ -77,26 +126,9 @@ class MyClient(Client):
         """
         # send packets from client A (sender of the file)
         if self.addr == "A":
-            if self.connSetup == 0:
-                packet = Packet("A", "B", 0, 0, 1, 0, 0, None) # create a SYN packet
-                if self.link:
-                    self.link.send(packet, self.addr) # send SYN packet out into the network
-                self.connSetup = 1
-
-            if self.connEstablished == 1 and self.connTerminate == 0:
-                content = self.sendFile.read(self.MSS) # read MSS bytes from sendFile
-                if content:
-                    packet = Packet("A", "B", 0, 0, 0, 1, 0, content) # create a packet
-                    if self.link:
-                        self.link.send(packet, self.addr) # send packet out into the network
-                else:
-                    # start connection termination
-                    packet = Packet("A", "B", 0, 0, 0, 1, 1, None) # create a FIN packet
-                    if self.link:
-                        self.link.send(packet, self.addr) # send FIN packet out into the network
-                    self.connTerminate = 1
+            self.sender_send()
 
         # send packets from client B (receiver of the file)
         if self.addr == "B":
-            pass
+            self.receiver_send()
 
