@@ -1,6 +1,4 @@
-Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 1 ACKFlag: 0 FINFlag: 0 Payload: None
-Packet - srcAddr: A dstAddr: B seqNum: 1 ackNum: 1 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Payload: None
-Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Payload:             ___
+            ___
            /\  \
           /  \/ \
      ___  \   O /  ___
@@ -9,8 +7,7 @@ Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag
   /___/ | <>   <> | \___\                                                     
   O  ___|    ^    |___  O
    /     \  -^-  /    \
-  / 
-Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Payload:             ___
+  /             ___
            /\  \
           /  \/ \
      ___  \   O /  ___
@@ -19,8 +16,7 @@ Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag
   /___/ | <>   <> | \___\                                                     
   O  ___|    ^    |___  O
    /     \  -^-  /    \
-  / 
-Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Payload:             ___
+  /             ___
            /\  \
           /  \/ \
      ___  \   O /  ___
@@ -29,8 +25,7 @@ Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag
   /___/ | <>   <> | \___\                                                     
   O  ___|    ^    |___  O
    /     \  -^-  /    \
-  / 
-Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Payload:             ___
+  /             ___
            /\  \
           /  \/ \
      ___  \   O /  ___
@@ -39,8 +34,7 @@ Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag
   /___/ | <>   <> | \___\                                                     
   O  ___|    ^    |___  O
    /     \  -^-  /    \
-  / 
-Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Payload:             ___
+  /             ___
            /\  \
           /  \/ \
      ___  \   O /  ___
@@ -49,8 +43,7 @@ Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag
   /___/ | <>   <> | \___\                                                     
   O  ___|    ^    |___  O
    /     \  -^-  /    \
-  / 
-Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Payload:             ___
+  /             ___
            /\  \
           /  \/ \
      ___  \   O /  ___
@@ -59,8 +52,7 @@ Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag
   /___/ | <>   <> | \___\                                                     
   O  ___|    ^    |___  O
    /     \  -^-  /    \
-  / 
-Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Payload:             ___
+  /             ___
            /\  \
           /  \/ \
      ___  \   O /  ___
@@ -69,8 +61,7 @@ Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag
   /___/ | <>   <> | \___\                                                     
   O  ___|    ^    |___  O
    /     \  -^-  /    \
-  / 
-Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Payload:             ___
+  /             ___
            /\  \
           /  \/ \
      ___  \   O /  ___
@@ -79,20 +70,15 @@ Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag
   /___/ | <>   <> | \___\                                                     
   O  ___|    ^    |___  O
    /     \  -^-  /    \
-  / 
-Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Payload:   /\  \_____/ /\   \
+  /   /\  \_____/ /\   \
   \_ / /          \ \_ /
   O   /   /\   /\  \  O
        \ /  \ /  \ /
         O    O    O
 
-
-Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Payload:   /\  \_____/ /\   \
+  /\  \_____/ /\   \
   \_ / /          \ \_ /
   O   /   /\   /\  \  O
        \ /  \ /  \ /
         O    O    O
 
-
-Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 1 Payload: None
-Packet - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Payload: None

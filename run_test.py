@@ -38,7 +38,7 @@ def remove_all_files_in_directory(folder):
             print('Failed to delete %s. Reason: %s' % (file_path, e))
 
 
-TO_TEST = []
+TO_TEST = [50]
 
 def extract_baselines(baseline_filepath: Path) -> dict[str, dict[int, NetworkTestResults]]:
     return_value: dict[str, dict[int, NetworkTestResults]] = dict()
@@ -101,10 +101,10 @@ class TestNetworkFlow(unittest.TestCase):
             result, correct = cls._run_individual_file(Path(input_filename), output_filepath, error_rate)
             shutil.copytree(LOG_PATH, output_filepath, dirs_exist_ok=True)
             assert correct == True, f"INCORRECT OUTPUT: {input_filename}, PERCENT DROP: {error_rate}"
-            assert result.bytes <= test_baseline[
-                error_rate].bytes, f"TOO MANY BYTES: Bytes sent by implementation for {input_filename} at {error_rate}% error rate exceeded baselines. Computed: {result.bytes} Maximum: {test_baseline.bytes}"
-            assert result.time <= test_baseline[
-                error_rate].time * 1.25, f"TOO LONG: Total time spent by implementation for {input_filename} at {error_rate}% exceeded baselines. Completed: {result.time} Maximum: {test_baseline.time * 1.25}"
+            test_baseline_obj: NetworkTestResults = test_baseline[error_rate]
+            print(type(test_baseline_obj))
+            assert result.bytes <= test_baseline_obj.bytes * 1.25, f"TOO MANY BYTES: Bytes sent by implementation for {input_filename} at {error_rate}% error rate exceeded baselines. Computed: {result.bytes} Maximum: {test_baseline_obj.bytes * 1.25}"
+            assert result.time <= test_baseline_obj.time * 1.25, f"TOO LONG: Total time spent by implementation for {input_filename} at {error_rate}% exceeded baselines. Completed: {result.time} Maximum: {test_baseline_obj.time * 1.25}"
 
 
 # AFTER the class definition
