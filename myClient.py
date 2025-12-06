@@ -20,7 +20,8 @@ from packet import Packet
         - if the sequence number is equal to the stored sequence number, store it and send an ack for that sequence number
 """
 
-
+IS_FINISHED = -1
+IS_UNSENT = -2
 class MyClient(Client):
     """Implement a reliable transport"""
 
@@ -35,20 +36,15 @@ class MyClient(Client):
         self.sendFile = sendFile
         self.recvFile = recvFile
 
-        self.last_send_time: float = time.time()
-        self.send_timeout_minimum: float = 5
-        self.send_timeout: float = self.send_timeout_minimum
-        self.total_sends: int = 1
-        self.failed_sends: int = 0
+        self.send_timeout: float = 5
 
-        self.max_in_flight: int = 5
+        self.max_in_flight: int = 50
         self.current_in_flight: int = 0
-        receive_buffer: list = []
-        timeout_buffer: list = []
+        self.receive_buffer: list = []
+        self.timeout_buffer: list = []
+        self.send_buffer: list = []
+        self.send_queue: queue.Queue = queue.Queue()
 
-        self.awaiting_ack: bool = False
-        self.content: str = ""
-        self.sequence_number: int = 0
         """add your own class fields and initialization code here"""
 
 
@@ -65,7 +61,9 @@ class MyClient(Client):
                 self.link.send(packet, self.addr)  # send ACK packet out into the network
 
         elif packet.ackFlag == 1:
-            self.awaiting_ack = False
+            self.timeout_buffer[packet.seqNum] = IS_FINISHED
+            self.current_in_flight -= 1
+
 
     def receiver_receive(self, packet: Packet):
         if packet.synFlag == 1:  # received a SYN packet
@@ -79,6 +77,8 @@ class MyClient(Client):
             if self.link:
                 self.link.send(packet, self.addr)  # send FIN-ACK packet out into the network
             self.connTerminate = 1
+            for content in self.receive_buffer:
+                self.recvFile.write(content)
 
         elif self.connSetup == 1 and packet.ackFlag == 1:  # received an ACK packet for SYN-ACK
             self.connSetup = 0
@@ -87,17 +87,13 @@ class MyClient(Client):
             self.connTerminate = 0
 
         elif packet.ackFlag == 1 and self.connSetup == 0 and self.connTerminate == 0:  # received a data packet
-            if packet.seqNum == self.sequence_number + 1:
-                self.recvFile.write(packet.payload)  # write the contents of the packet to recvFile
-                self.sequence_number = packet.seqNum
-            ack_packet = Packet("B", "A", self.sequence_number, 0, 0, 1, 0, None)
-            if self.link:
-                self.link.send(ack_packet, self.addr)
-                self.last_send_time = time.time()
-        # elif time.time() - self.last_send_time >= self.send_timeout_minimum:
-        #     ack_packet = Packet("B", "A", self.sequence_number, 0, 0, 1, 0, None)
-        #     if self.link:
-        #         self.link.send(ack_packet, self.addr)
+            if packet.seqNum > len(self.receive_buffer) - 1:
+                needed_space = packet.seqNum - len(self.receive_buffer) + 1
+                self.receive_buffer += ["" for x in range(needed_space)]
+            if self.receive_buffer[packet.seqNum] == "":
+                self.receive_buffer[packet.seqNum] = packet.payload
+            ack_packet = Packet("B", "A", packet.seqNum, 0, 0, 1, 0, None)
+            self.send_queue.put(ack_packet)
 
 
     def handleRecvdPackets(self):
@@ -119,35 +115,52 @@ class MyClient(Client):
                 if self.addr == "B":
                     self.receiver_receive(packet)
 
-    def calculate_new_timeout(self):
-        # I decided to dynamically calculate timeouts based on geometric distribution
-        percent_success = 1 - (self.failed_sends / self.total_sends)
+    def sender_unpack_content(self):
+        content = self.sendFile.read(self.MSS)
+        while content:
+            self.send_buffer.append(content)
+            self.timeout_buffer.append(IS_UNSENT)
+            content = self.sendFile.read(self.MSS)
 
+    def sender_send_content(self, packet: Packet):
+        if self.timeout_buffer[packet.seqNum] == IS_FINISHED:
+            return
+        if self.link:
+            self.total_sends += 1
+            self.link.send(packet, self.addr)  # send packet out into the network
+            self.timeout_buffer[packet.seqNum] = time.time()
+            self.current_in_flight += 1
 
     def sender_send(self):
         if self.connSetup == 0:
+            self.sender_unpack_content()
             packet = Packet("A", "B", 0, 0, 1, 0, 0, None)  # create a SYN packet
             if self.link:
                 self.link.send(packet, self.addr)  # send SYN packet out into the network
             self.connSetup = 1
 
         if self.connEstablished == 1 and self.connTerminate == 0:
-            if not self.awaiting_ack:
-                self.content = self.sendFile.read(self.MSS)  # read MSS bytes from sendFile
-                self.sequence_number += 1
-            elif self.awaiting_ack and time.time() - self.last_send_time <= self.send_timeout:
-                return
-            else:
-                self.failed_sends += 1
-            if self.content:
-                packet = Packet("A", "B", self.sequence_number, 0, 0, 1, 0, self.content)  # create a packet
-                if self.link:
-                    self.total_sends += 1
-
-                    self.link.send(packet, self.addr)  # send packet out into the network
-                    self.awaiting_ack = True
-                    self.last_send_time = time.time()
-            else:
+            unsent_flag = False
+            for seq_num, tup in enumerate(zip(self.send_buffer, self.timeout_buffer)):
+                content, timer = tup
+                if timer != IS_FINISHED:
+                    unsent_flag = True
+                if timer >= 0 and time.time() - timer > self.send_timeout_minimum: # if timeout incurred, re-insert the content to the send queue
+                    self.send_queue.put(
+                        Packet("A", "B", seq_num, 0, 0, 1, 0, content)
+                    )
+                    self.timeout_buffer[seq_num] = IS_UNSENT
+                if self.current_in_flight < self.max_in_flight:
+                    if timer == IS_UNSENT and self.current_in_flight <= self.max_in_flight:
+                        self.send_queue.put(
+                            Packet("A", "B", seq_num, 0, 0, 1, 0, content)
+                        )
+                    try:
+                        packet = self.send_queue.get(block=False)
+                        self.sender_send_content(packet)
+                    except:
+                        pass
+            if not unsent_flag:
                 # start connection termination
                 packet = Packet("A", "B", 0, 0, 0, 1, 1, None)  # create a FIN packet
                 if self.link:
@@ -155,7 +168,13 @@ class MyClient(Client):
                 self.connTerminate = 1
 
     def receiver_send(self):
-        pass
+        try:
+            packet = self.send_queue.get(block=False)
+            if self.link and packet is not None:
+                self.link.send(packet, self.addr)
+                self.last_send_time = time.time()
+        except Exception:
+            return
 
     def sendPackets(self):
         """Send packets into the network.

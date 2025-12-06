@@ -1,136 +1,2487 @@
 Packet 1 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 1 ACKFlag: 0 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: None
 Packet 2 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 1 SYNFLag: 1 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
 Packet 3 - srcAddr: A dstAddr: B seqNum: 1 ackNum: 1 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: None
-Packet 4 - srcAddr: A dstAddr: B seqNum: 1 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: Quod equidem non reprehendo;
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quibus natura iure responderit non esse verum aliunde finem beate vivendi, a se principia rei gerendae peti; Quae enim adhuc protulisti, popularia sunt, ego autem a te el
-Packet 5 - srcAddr: B dstAddr: A seqNum: 1 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 6 - srcAddr: A dstAddr: B seqNum: 2 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: egantiora desidero. Duo Reges: constructio interrete. Tum Lucius: Mihi vero ista valde probata sunt, quod item fratri puto. Bestiarum vero nullum iudicium puto. Nihil enim iam habes, quod ad corpus referas; Deinde prima illa, quae in congressu solemus: Qui
-Packet 7 - srcAddr: B dstAddr: A seqNum: 2 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 8 - srcAddr: A dstAddr: B seqNum: 3 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: d tu, inquit, huc? Et homini, qui ceteris animantibus plurimum praestat, praecipue a natura nihil datum esse dicemus?
+Packet 4 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: Path: rrze.uni-erlangen.de!fauern!xlink.net!howland.reston.ans.net!europa.eng.gtefsd.com!uunet!ddsw1!not-for-mail
+From: jorn@Notwerk.mcs.com (Jorn Barger)
+Newsgroups: alt.ascii-art
+Subject: Ascii archive, sorted
+Date: 31 Oct 1993 12:24:18 -0600
+Organizatio
+Packet 5 - srcAddr: A dstAddr: B seqNum: 1 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: n: MCSNet Subscriber, Chicago, IL
+Lines: 1254
+Message-ID: <2b0vsi$16m@Notwerk.mcs.com>
+NNTP-Posting-Host: cluster.mcs.com
 
-Iam id ipsum absurdum, maximum malum neglegi. Quod ea non occurrentia fingunt, vincunt Aristonem; Atqui perspicuum est hominem e corpore 
-Packet 9 - srcAddr: B dstAddr: A seqNum: 3 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 10 - srcAddr: A dstAddr: B seqNum: 4 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload: animoque constare, cum primae sint animi partes, secundae corporis. Fieri, inquam, Triari, nullo pacto potest, ut non dicas, quid non probes eius, a quo dissentias. Equidem e Cn. An dubium est, quin virtus ita maximam partem optineat in rebus humanis, ut r
-Packet 11 - srcAddr: A dstAddr: B seqNum: 4 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: animoque constare, cum primae sint animi partes, secundae corporis. Fieri, inquam, Triari, nullo pacto potest, ut non dicas, quid non probes eius, a quo dissentias. Equidem e Cn. An dubium est, quin virtus ita maximam partem optineat in rebus humanis, ut r
-Packet 12 - srcAddr: B dstAddr: A seqNum: 4 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 13 - srcAddr: A dstAddr: B seqNum: 5 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: eliquas obruat?
 
-Quis istum dolorem timet?
-Summus dolor plures dies manere non potest? Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Tubulum fuisse, qua illum, cuius is condemnatus est rogatione, P. Quod si ita sit, cur opera philosophiae sit
-Packet 14 - srcAddr: B dstAddr: A seqNum: 5 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 15 - srcAddr: A dstAddr: B seqNum: 6 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  danda nescio.
+:-)    :-D     ;-)    :->    :-}    :-]   
 
-Ex eorum enim scriptis et institutis cum omnis doctrina liberalis, omnis historia.
-Quod si ita est, sequitur id ipsum, quod te velle video, omnes semper beatos esse sapientes. Cum enim fertur quasi torrens oratio, quamvis multa cuiusque mod
-Packet 16 - srcAddr: B dstAddr: A seqNum: 6 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 17 - srcAddr: A dstAddr: B seqNum: 7 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: i rapiat, nihil tamen teneas, nihil apprehendas, nusquam orationem rapidam coerceas. Ita redarguitur ipse a sese, convincunturque scripta eius probitate ipsius ac moribus. At quanta conantur! Mundum hunc omnem oppidum esse nostrum! Incendi igitur eos, qui 
-Packet 18 - srcAddr: B dstAddr: A seqNum: 7 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 19 - srcAddr: A dstAddr: B seqNum: 8 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: audiunt, vides. Vide, ne magis, inquam, tuum fuerit, cum re idem tibi, quod mihi, videretur, non nova te rebus nomina inponere. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Si ista mala sunt, in quae potest incidere sapiens, sapientem es
-Packet 20 - srcAddr: B dstAddr: A seqNum: 8 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 21 - srcAddr: A dstAddr: B seqNum: 9 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: se non esse ad beate vivendum satis. At vero si ad vitem sensus accesserit, ut appetitum quendam habeat et per se ipsa moveatur, quid facturam putas?
 
-Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.
-Stulti autem malorum memor
-Packet 22 - srcAddr: B dstAddr: A seqNum: 9 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 23 - srcAddr: A dstAddr: B seqNum: 10 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ia torquentur, sapientes bona praeterita grata recordatione renovata delectant.
-Esse enim quam vellet iniquus iustus poterat inpune.
-Quae autem natura suae primae institutionis oblita est?
-Verum tamen cum de rebus grandioribus dicas, ipsae res verba rapiun
-Packet 24 - srcAddr: B dstAddr: A seqNum: 10 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 25 - srcAddr: A dstAddr: B seqNum: 11 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: t;
-Hoc est non modo cor non habere, sed ne palatum quidem.
-Voluptatem cum summum bonum diceret, primum in eo ipso parum vidit, deinde hoc quoque alienum; Sed tu istuc dixti bene Latine, parum plane. Nam haec ipsa mihi erunt in promptu, quae modo audivi, ne
-Packet 26 - srcAddr: B dstAddr: A seqNum: 11 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: DROPPED Payload: None
-Packet 27 - srcAddr: A dstAddr: B seqNum: 11 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: t;
-Hoc est non modo cor non habere, sed ne palatum quidem.
-Voluptatem cum summum bonum diceret, primum in eo ipso parum vidit, deinde hoc quoque alienum; Sed tu istuc dixti bene Latine, parum plane. Nam haec ipsa mihi erunt in promptu, quae modo audivi, ne
-Packet 28 - srcAddr: B dstAddr: A seqNum: 11 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 29 - srcAddr: A dstAddr: B seqNum: 12 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload: c ante aggrediar, quam te ab istis, quos dicis, instructum videro. Fatebuntur Stoici haec omnia dicta esse praeclare, neque eam causam Zenoni desciscendi fuisse. Non autem hoc: igitur ne illud quidem. Ratio quidem vestra sic cogit. Cum audissem Antiochum, 
-Packet 30 - srcAddr: A dstAddr: B seqNum: 12 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload: c ante aggrediar, quam te ab istis, quos dicis, instructum videro. Fatebuntur Stoici haec omnia dicta esse praeclare, neque eam causam Zenoni desciscendi fuisse. Non autem hoc: igitur ne illud quidem. Ratio quidem vestra sic cogit. Cum audissem Antiochum, 
-Packet 31 - srcAddr: A dstAddr: B seqNum: 12 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: c ante aggrediar, quam te ab istis, quos dicis, instructum videro. Fatebuntur Stoici haec omnia dicta esse praeclare, neque eam causam Zenoni desciscendi fuisse. Non autem hoc: igitur ne illud quidem. Ratio quidem vestra sic cogit. Cum audissem Antiochum, 
-Packet 32 - srcAddr: B dstAddr: A seqNum: 12 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 33 - srcAddr: A dstAddr: B seqNum: 13 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: Brute, ut solebam, cum M. An quod ita callida est, ut optime possit architectari voluptates?
+:-<    :-(    :-o    :-|    :-\     :^"    :-*   
 
-Idemne, quod iucunde?
-Haec mihi videtur delicatior, ut ita dicam, molliorque ratio, quam virtutis vis gravitasque postulat. Sed quoniam et advesperascit et mihi a
-Packet 34 - srcAddr: B dstAddr: A seqNum: 13 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: DROPPED Payload: None
-Packet 35 - srcAddr: A dstAddr: B seqNum: 13 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: Brute, ut solebam, cum M. An quod ita callida est, ut optime possit architectari voluptates?
 
-Idemne, quod iucunde?
-Haec mihi videtur delicatior, ut ita dicam, molliorque ratio, quam virtutis vis gravitasque postulat. Sed quoniam et advesperascit et mihi a
-Packet 36 - srcAddr: B dstAddr: A seqNum: 13 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 37 - srcAddr: A dstAddr: B seqNum: 14 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: d villam revertendum est, nunc quidem hactenus; Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur. Neque solum ea communia, verum etiam paria esse dixerunt. Sed nunc, quod agimus; A mene tu?
+:^)    :*)    8-)    [:-)    B-)   
+Packet 6 - srcAddr: A dstAddr: B seqNum: 2 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  C|:-)    :-#
 
-Quod equidem non reprehendo;
-Lorem ipsum 
-Packet 38 - srcAddr: B dstAddr: A seqNum: 14 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 39 - srcAddr: A dstAddr: B seqNum: 15 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: dolor sit amet, consectetur adipiscing elit. Quibus natura iure responderit non esse verum aliunde finem beate vivendi, a se principia rei gerendae peti; Quae enim adhuc protulisti, popularia sunt, ego autem a te elegantiora desidero. Duo Reges: constructi
-Packet 40 - srcAddr: B dstAddr: A seqNum: 15 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: DROPPED Payload: None
-Packet 41 - srcAddr: A dstAddr: B seqNum: 15 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: dolor sit amet, consectetur adipiscing elit. Quibus natura iure responderit non esse verum aliunde finem beate vivendi, a se principia rei gerendae peti; Quae enim adhuc protulisti, popularia sunt, ego autem a te elegantiora desidero. Duo Reges: constructi
-Packet 42 - srcAddr: B dstAddr: A seqNum: 15 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 43 - srcAddr: A dstAddr: B seqNum: 16 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: o interrete. Tum Lucius: Mihi vero ista valde probata sunt, quod item fratri puto. Bestiarum vero nullum iudicium puto. Nihil enim iam habes, quod ad corpus referas; Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc? Et homini, qui ceteris
-Packet 44 - srcAddr: B dstAddr: A seqNum: 16 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 45 - srcAddr: A dstAddr: B seqNum: 17 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload:  animantibus plurimum praestat, praecipue a natura nihil datum esse dicemus?
 
-Iam id ipsum absurdum, maximum malum neglegi. Quod ea non occurrentia fingunt, vincunt Aristonem; Atqui perspicuum est hominem e corpore animoque constare, cum primae sint animi 
-Packet 46 - srcAddr: A dstAddr: B seqNum: 17 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload:  animantibus plurimum praestat, praecipue a natura nihil datum esse dicemus?
 
-Iam id ipsum absurdum, maximum malum neglegi. Quod ea non occurrentia fingunt, vincunt Aristonem; Atqui perspicuum est hominem e corpore animoque constare, cum primae sint animi 
-Packet 47 - srcAddr: A dstAddr: B seqNum: 17 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  animantibus plurimum praestat, praecipue a natura nihil datum esse dicemus?
+ o   \ o /  _ o         __|    \ /     |__        o _  \ o /   o
+/|\    |     /\   ___\o   \o    |    o/    o/__   /\     |    /|\
+/ \   / \   | \  /)  |    ( \  /o\  / )    |  (\  / |   / \   / \
 
-Iam id ipsum absurdum, maximum malum neglegi. Quod ea non occurrentia fingunt, vincunt Aristonem; Atqui perspicuum est hominem e corpore animoque constare, cum primae sint animi 
-Packet 48 - srcAddr: B dstAddr: A seqNum: 17 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 49 - srcAddr: A dstAddr: B seqNum: 18 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: partes, secundae corporis. Fieri, inquam, Triari, nullo pacto potest, ut non dicas, quid non probes eius, a quo dissentias. Equidem e Cn. An dubium est, quin virtus ita maximam partem optineat in rebus humanis, ut reliquas obruat?
+                     [>  
+  o        )   
+Packet 7 - srcAddr: A dstAddr: B seqNum: 3 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     O/           o           
+ < \      /\--<|  -|  .     /\O/        O      . o       c ,
+_/\      /\       /|_      0  \\   |  0-#      `'#v-- --v#`'     __/\o_
+  /     / /      /            //   |   / \      /'>     <`\ 
 
-Quis istum dolorem timet
-Packet 50 - srcAddr: B dstAddr: A seqNum: 18 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 51 - srcAddr: A dstAddr: B seqNum: 19 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload: ?
-Summus dolor plures dies manere non potest? Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Tubulum fuisse, qua illum, cuius is condemnatus est rogatione, P. Quod si ita sit, cur opera philosophiae sit danda nescio.
+          _      
+ _  o    />) 
+Packet 8 - srcAddr: A dstAddr: B seqNum: 4 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: o    J)  o   
+|<)_/#   |Y__/#   |Y__/#      _/\!/\_
+TT  <T   T"T <T   T"T <T  
 
-Ex eorum enim scriptis et
-Packet 52 - srcAddr: A dstAddr: B seqNum: 19 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ?
-Summus dolor plures dies manere non potest? Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Tubulum fuisse, qua illum, cuius is condemnatus est rogatione, P. Quod si ita sit, cur opera philosophiae sit danda nescio.
+                 __o      __o      o         __o        ,__o      o__,
+     __ -_     _ \<_     -\<,    _/\_>     _`\<,_     _-\_<,      ,>_/-_
+((( (_)T(_)   (_)/(_)   O / O   
+Packet 9 - srcAddr: A dstAddr: B seqNum: 5 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: O,> / O   (*)/ (*)   (*)/'(*)    (*)`\(*)
 
-Ex eorum enim scriptis et
-Packet 53 - srcAddr: B dstAddr: A seqNum: 19 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 54 - srcAddr: A dstAddr: B seqNum: 20 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload:  institutis cum omnis doctrina liberalis, omnis historia.
-Quod si ita est, sequitur id ipsum, quod te velle video, omnes semper beatos esse sapientes. Cum enim fertur quasi torrens oratio, quamvis multa cuiusque modi rapiat, nihil tamen teneas, nihil appre
-Packet 55 - srcAddr: A dstAddr: B seqNum: 20 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload:  institutis cum omnis doctrina liberalis, omnis historia.
-Quod si ita est, sequitur id ipsum, quod te velle video, omnes semper beatos esse sapientes. Cum enim fertur quasi torrens oratio, quamvis multa cuiusque modi rapiat, nihil tamen teneas, nihil appre
-Packet 56 - srcAddr: A dstAddr: B seqNum: 20 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  institutis cum omnis doctrina liberalis, omnis historia.
-Quod si ita est, sequitur id ipsum, quod te velle video, omnes semper beatos esse sapientes. Cum enim fertur quasi torrens oratio, quamvis multa cuiusque modi rapiat, nihil tamen teneas, nihil appre
-Packet 57 - srcAddr: B dstAddr: A seqNum: 20 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 58 - srcAddr: A dstAddr: B seqNum: 21 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: hendas, nusquam orationem rapidam coerceas. Ita redarguitur ipse a sese, convincunturque scripta eius probitate ipsius ac moribus. At quanta conantur! Mundum hunc omnem oppidum esse nostrum! Incendi igitur eos, qui audiunt, vides. Vide, ne magis, inquam, t
-Packet 59 - srcAddr: B dstAddr: A seqNum: 21 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: DROPPED Payload: None
-Packet 60 - srcAddr: A dstAddr: B seqNum: 21 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: hendas, nusquam orationem rapidam coerceas. Ita redarguitur ipse a sese, convincunturque scripta eius probitate ipsius ac moribus. At quanta conantur! Mundum hunc omnem oppidum esse nostrum! Incendi igitur eos, qui audiunt, vides. Vide, ne magis, inquam, t
-Packet 61 - srcAddr: B dstAddr: A seqNum: 21 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 62 - srcAddr: A dstAddr: B seqNum: 22 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: uum fuerit, cum re idem tibi, quod mihi, videretur, non nova te rebus nomina inponere. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Si ista mala sunt, in quae potest incidere sapiens, sapientem esse non esse ad beate vivendum satis. At v
-Packet 63 - srcAddr: B dstAddr: A seqNum: 22 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: DROPPED Payload: None
-Packet 64 - srcAddr: A dstAddr: B seqNum: 22 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: uum fuerit, cum re idem tibi, quod mihi, videretur, non nova te rebus nomina inponere. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Si ista mala sunt, in quae potest incidere sapiens, sapientem esse non esse ad beate vivendum satis. At v
-Packet 65 - srcAddr: B dstAddr: A seqNum: 22 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 66 - srcAddr: A dstAddr: B seqNum: 23 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ero si ad vitem sensus accesserit, ut appetitum quendam habeat et per se ipsa moveatur, quid facturam putas?
 
-Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.
-Stulti autem malorum memoria torquentur, sapientes bona praeterita 
-Packet 67 - srcAddr: B dstAddr: A seqNum: 23 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 68 - srcAddr: A dstAddr: B seqNum: 24 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: grata recordatione renovata delectant.
-Esse enim quam vellet iniquus iustus poterat inpune.
-Quae autem natura suae primae institutionis oblita est?
-Verum tamen cum de rebus grandioribus dicas, ipsae res verba rapiunt;
-Hoc est non modo cor non habere, sed n
-Packet 69 - srcAddr: B dstAddr: A seqNum: 24 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 70 - srcAddr: A dstAddr: B seqNum: 25 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: e palatum quidem.
-Voluptatem cum summum bonum diceret, primum in eo ipso parum vidit, deinde hoc quoque alienum; Sed tu istuc dixti bene Latine, parum plane. Nam haec ipsa mihi erunt in promptu, quae modo audivi, nec ante aggrediar, quam te ab istis, quos 
-Packet 71 - srcAddr: B dstAddr: A seqNum: 25 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 72 - srcAddr: A dstAddr: B seqNum: 26 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: dicis, instructum videro. Fatebuntur Stoici haec omnia dicta esse praeclare, neque eam causam Zenoni desciscendi fuisse. Non autem hoc: igitur ne illud quidem. Ratio quidem vestra sic cogit. Cum audissem Antiochum, Brute, ut solebam, cum M. An quod ita cal
-Packet 73 - srcAddr: B dstAddr: A seqNum: 26 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 74 - srcAddr: A dstAddr: B seqNum: 27 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: lida est, ut optime possit architectari voluptates?
+     __o                                                                 __o
+   _`\<,_                                                              _`\<,_
+  (*)/ (*)                                               
+Packet 10 - srcAddr: A dstAddr: B seqNum: 6 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:              (*)/ (*)
+/\/\/\/\/\/\                                                  o;_   /\/\/\/\/\
+            \(*)|\                                            / (*)/
+             \ --_\o      __o          __o          __o      /_-\ /
+              \(*)
+Packet 11 - srcAddr: A dstAddr: B seqNum: 7 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: !     _`\<,_       _`\<,_       _`\<,_      (*)/
+               \       (*)/ (*)     (*)/ (*)     (*)/ (*)       /
+                \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 
-Idemne, quod iucunde?
-Haec mihi videtur delicatior, ut ita dicam, molliorque ratio, quam virtutis vis gravitasque postulat. Sed quoniam et advesperascit et mihi ad villam revertendum est, nunc quidem hac
-Packet 75 - srcAddr: B dstAddr: A seqNum: 27 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 76 - srcAddr: A dstAddr: B seqNum: 28 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: tenus; Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur. Neque solum ea communia, verum etiam paria esse dixerunt. Sed nunc, quod agimus; A mene tu?
-Packet 77 - srcAddr: B dstAddr: A seqNum: 28 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 78 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 1 Received on port: 1 Forwarded on port: 2 Payload: None
-Packet 79 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 1 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 80 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: None
+     ^----      +===========================+             
+    /           
+Packet 12 - srcAddr: A dstAddr: B seqNum: 8 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: |                           |\              __._. __.. O      
+_O/<            |    @         \ ()         | \            ____ ._..  /\,    
+ |  \           |   /            ##\        |  \                     -|~(*)  
+< \  \       ------/-------------|\--
+Packet 13 - srcAddr: A dstAddr: B seqNum: 9 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ------------------ :::::::::.  (*)   
+      |        /  /                        /            :::::::::::............
+       |       /  (A)!<<--------------------------- (V)    
+              /                 \()       /  \()           
+              ----
+Packet 14 - srcAddr: A dstAddr: B seqNum: 10 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ---------------$$\-----     $$\          
+                                 ||           |\          
+
+                \\__________ 
+@}-,-`--          \---\_----"        |>>>-->-->|
+
+.-.,-.     _       /\       ^     
+`    '    ( )     /  \     / \    __/\_
+Packet 15 - srcAddr: A dstAddr: B seqNum: 11 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: _    __/\__     /~/
+ \  /    (_ _)    \  /    (_ _)   \    /    \    /    | | 
+  \/      /_\      \/      /_\    /_/\_\     |/\|      \_\
+
+                 (   .       _                     
+  (   .     .  .=##         {~}      ()_()     /     
+.=##   .  (
+Packet 16 - srcAddr: A dstAddr: B seqNum: 12 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:       ( .       ( V-)      (_)      -8-)    =|:-)=
+  ( .   .=##  .       .    "|Y|"               \        
+.     .   ( .    .         _|||_            
+
+
+
+       (__)                     
+       (oo)    o     /| /|/|_   
+      / \/    /    /      _ /   
+ 
+Packet 17 - srcAddr: A dstAddr: B seqNum: 13 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     /  _\===^   ___\_____/___  
+ ___|__/ |/\    (___________(_) 
+*        ^ ^                    
+
+                  __          o======o     _   _   _   _+       |
+                 /..\         |    \\|    /_`-'_`-'_`-'_|  \+/  |
+    ()           \/\/    
+Packet 18 - srcAddr: A dstAddr: B seqNum: 14 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:    < <<<\  ||    \_`M'_`D'_`C'_| _<=>_ |
+ /([<>])\    _  _\~~/\  _   (0-0-)  ||      `-' `-' `-' 0/ \ / o=o
+8  #~~#  8    \/  \/  \/     \^_/   ||                  \/\ ^ /`0
+   #  #          /\/\        /()\   ||                  | /_^_\
+  /#  #\        / 
+Packet 19 - srcAddr: A dstAddr: B seqNum: 15 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:    \       (  )  /||\                 | || ||
+              __/    \__      ||   o***   ______________|_d|_|b____
+
+Rachel
+ -  -
+ @  @
+   >
+  \_/
+
+
+        ///////   O O     !!!    \\///    ^ ^    \\\|||///           ----.
+  o o   \-oo-/     |     /o o\   |
+Packet 20 - srcAddr: A dstAddr: B seqNum: 16 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: O O|   (o o)    =======     /\    "   _}
+   o     \--/    \___/  (  >  )  | ( |    ( )    | O   O |   /..\   "@   >
+  \_/     \/      \_/    \ - /   |_@_|   \___/    \`___'/   /_\/_\  |\   7
+                         _] [_     H      !_!      _| |_         
+Packet 21 - srcAddr: A dstAddr: B seqNum: 17 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   / `-- _
+          
+                                                               ________   
+  ____     @@@@@   \\\\|||////   \\\|||///      //////\\     -------+  \  
+ /    \   @(o o)@  \\\     ///  = __   __ =    /        \    \\\\\\\\\  \ 
+/ \||/ \  
+Packet 22 - srcAddr: A dstAddr: B seqNum: 18 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  ( J )   \\  * *  //  =( o) (o )=   _|  _   _ |_   //_//__\\\  |
+| /oo\ |   ( - )   (    ^    )  =    U    =  |.|-(.)-(.)+.|  /\0' `0~ |\ /
+\ \ \/ /    ~|~     \ \___/ /    _________    \|    J   |/   (|^<, ^  .)| 
+ \_||_/   /~~~~~\    \_____/     \__!|!__
+Packet 23 - srcAddr: A dstAddr: B seqNum: 19 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: /     \   ---  /     ( ._.  ||/  
+                                    \_/         \      /       \ .  / |   
+                                                 "####"         +--/  |   
+   @@@@@@  
+  @@@@@ @@ 
+ @@@    @@@
+  @ 0  0 @@
+  @  I   @@
+  @  +    @
+
+Packet 24 - srcAddr: A dstAddr: B seqNum: 20 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   @ ===   @
+          
+
+                                                          .......
+      ***           @@@@@@@       #############       .:::::::::::::.  
+    *******         @@  @@@@      ##         ##      .::'  '''''  '::. 
+   *********       @@ 
+Packet 25 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 26 - srcAddr: A dstAddr: B seqNum: 21 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:    @@@      #  ~~   ~~  #      :::           ::: 
+/\* ### ### */\    @ 0  0 @@@     #  ()   ()  #      :::           ::: 
+|    @ / @    |   @@  I   @@@@    (     ^     )      :::           ::: 
+\/\    ^    /\/   @@      @@@@     |         |       ::'      
+Packet 27 - srcAddr: B dstAddr: A seqNum: 1 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 28 - srcAddr: A dstAddr: B seqNum: 22 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:      ':: 
+   \  ===  /      @@  ==  @@@      |  {===}  |      : : /~~~' '~~~\ : :
+    \_____/        @+     @@        \       /       :(:  <o> | <o>  :):
+     _|_|_         @+++  +@@       /  -----  \      '.:     / \     :.'
+  *$$$$$$$$$*       @+   +@   
+Packet 29 - srcAddr: B dstAddr: A seqNum: 2 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 30 - srcAddr: A dstAddr: B seqNum: 23 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   ---  |%\ /%|  ---    ':    (. .)    :' 
+                     +88$8     /     |%%%%%|     \    '.  .:::::.  .'
+                                     |%/ \%|           :  <----->  :   
+                                                       '.  ~:::~  .'
+   
+Packet 31 - srcAddr: B dstAddr: A seqNum: 3 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 32 - srcAddr: A dstAddr: B seqNum: 24 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                                                       '.  '  .'     
+                                                           '''''       
+              ____
+            _(____)_
+     ___ooO_(_o__o_)_Ooo___
+
+       \|||/
+       (o o)
+----ooO-(_)-Ooo-----
+Packet 33 - srcAddr: B dstAddr: A seqNum: 4 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 34 - srcAddr: A dstAddr: B seqNum: 25 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ---
+
+   ( ( (                   ))
+    ) ) )                 ((
+    ( ( (           ___o___)
+   '. ___ .'        |     |====O
+  '  (> <) '        |_____|
+--ooO-(_)-Ooo--------------------
+
+
+     """""""       
+     ^-O-O-^       
+---ooO--U--Ooo-----
+
+
+    
+Packet 35 - srcAddr: B dstAddr: A seqNum: 5 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 36 - srcAddr: A dstAddr: B seqNum: 26 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:            ......               
+            .:||||||||:.            
+           /            \           
+          (   o      o   )          
+--@@@@----------:  :----------@@@@--
+
+        >\\\|/<
+        |_"""_|
+        (O) (o)
++----OOO--(_)--OOOo-------
+Packet 37 - srcAddr: B dstAddr: A seqNum: 6 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 38 - srcAddr: A dstAddr: B seqNum: 27 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: -----------=| I was here 2! |=-------------+
+|  Email: jorn@marge.mikom.csir.co.za  /  JHass@mikomtek.csir.co.za  |
+|  SMail: Jorn Hass, Box 40773, Arcadia, 0007, Rep. of South Africa  |
++------|_______|--------( Hi Mom! )---------------------[ (C) 1993 ]-
+Packet 39 - srcAddr: B dstAddr: A seqNum: 7 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 40 - srcAddr: A dstAddr: B seqNum: 28 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: +
+
+
+                                                    @      @              
+                          \\\|||///         / \     { _____}      / \     
+                        .  =======        /  |  \___/*******\___/  |  \   
+  @@@@@      |         / \|
+Packet 41 - srcAddr: B dstAddr: A seqNum: 8 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 42 - srcAddr: A dstAddr: B seqNum: 29 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  O   O |      (   I  /   ~   '   ~   \  I   )  
+ @(o o)@     |         \ / \`___'/        \  |  |   0       0   |  |  /   
+  ( J )      |          #   _| |_           \   |       A       |   /     
+  ( - )      |    /    (#) (     )            \__    _____
+Packet 43 - srcAddr: B dstAddr: A seqNum: 9 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 44 - srcAddr: A dstAddr: B seqNum: 30 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: __    __/       
+   ~|~       |  /       #\//|* *|\\              \_____________/          
+ /~~~~~\     |/         #\/(  *  )/        _-------*         *-------_    
+| |   | \___/|          #   =====         /  /---               ---\  \   
+| |   |   /  |
+Packet 45 - srcAddr: B dstAddr: A seqNum: 10 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 46 - srcAddr: A dstAddr: B seqNum: 31 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:           #   ( U )       /  /     (             )     \  \ 
+| |   |       \____     #   || ||      {  (     (               )     )  }
+                       .#---'| |`----.  \  \    |               |    /  / 
+                       `#----' `-----'    \  
+Packet 47 - srcAddr: B dstAddr: A seqNum: 11 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 48 - srcAddr: A dstAddr: B seqNum: 32 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: \  |               |  /  /   
+                                           **** |               | ****    
+                                          //|\\  \_____________/  //|\\   
+                                          *         '*** ***'         *   
+ 
+Packet 49 - srcAddr: B dstAddr: A seqNum: 12 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 50 - srcAddr: A dstAddr: B seqNum: 33 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                                         ***.       .*** ***.       .***  
+                                         '*************' '*************'  
+
+
+                                       """""""    
+                                       |""""""    
+  
+Packet 51 - srcAddr: B dstAddr: A seqNum: 13 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 52 - srcAddr: A dstAddr: B seqNum: 34 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                        _________     O   C""    
+                        //-------\\   /_     \    
+L______________||O-----------------\   |____/_\ / 
+-----------------||||| =========== /\ ____\    v|\
+                  OOOO-L______________          / 
+   
+Packet 53 - srcAddr: B dstAddr: A seqNum: 14 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 54 - srcAddr: A dstAddr: B seqNum: 35 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                  --____||||___\<               
+                          ||||    (|-- |          
+                          ----                    
+      ----.
+     "   _}
+     "@   >
+     |\   7
+     / `-- _         ,-------,****
+  ~    >o<  \---------o
+Packet 55 - srcAddr: B dstAddr: A seqNum: 15 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 56 - srcAddr: A dstAddr: B seqNum: 36 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: {___}-
+ /  |  \  /  ________/8'
+ |  |       /         "
+ |  /      |
+
+
+    ___________  || o   > =====| === \
+ ~Y/ =====-__|~==\|   U > ===   BULLET>
+   / |L)~~~       \  ___ > ===== / === }
+   |_|     BAM!    \_____/
+
+
+        _---_              
+       #
+Packet 57 - srcAddr: B dstAddr: A seqNum: 16 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 58 - srcAddr: A dstAddr: B seqNum: 37 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ##  '\             
+       ##    )             
+        -----_________===='
+      (      -------- /'   
+     /|      |             
+    /  |    |              
+     \ |    |              
+       |     -_____        
+       \    _____  \       
+        |  /
+Packet 59 - srcAddr: B dstAddr: A seqNum: 17 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 60 - srcAddr: A dstAddr: B seqNum: 38 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:       | |      
+ ______/  /        | |__   
+\ _______/          |___)  
+  \                        
+
+           __    __
+        _/    \/    \_
+      /  __--\__/--__  \
+    / _--            --_ \
+  /_--                  --_\
+ --                        --
+ 
+Packet 61 - srcAddr: B dstAddr: A seqNum: 18 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 62 - srcAddr: A dstAddr: B seqNum: 39 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   \-_____          _____-/
+     \__    ------    __/
+         \__________/
+
+
+~       . ...... .        ~
+ ~   .               .   ~
+  ~.    __       __    .~
+ .     @@@       @@@     .
+.            /            .
+.           /             .
+.          /  
+Packet 63 - srcAddr: B dstAddr: A seqNum: 19 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 64 - srcAddr: A dstAddr: B seqNum: 40 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:             .
+ .     *  ----     *     .
+  .     *         *     .
+    .     *******     .
+       .           .
+            ...
+
+
+
+ /\ /\      /\ \  / /\       ( )_( )     |\    \ \ \ \ \ \ \      __   
+((ovo))    //\\ .. //\\     / \. ./ \    |  \    \ \ 
+Packet 65 - srcAddr: B dstAddr: A seqNum: 20 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 66 - srcAddr: A dstAddr: B seqNum: 41 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: \ \ \ \ \   | O~-_
+():::()    //\((  ))/\\    / __=.=__ \   |   >----|-|-|-|-|-|-|--|  __/
+  VVV      /  < `' >  \    \_ m " m _/   |  /    / / / / / / /   |__\  
+                                         |/     / / / / / / /          
+ 
+
+ |  _       /^\_  
+Packet 67 - srcAddr: B dstAddr: A seqNum: 21 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 68 - srcAddr: A dstAddr: B seqNum: 42 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:          _/|   o           //        +     o       o  
+ \ /       |    \  __  ___/  /    o        //////    ++       \     /   
+  UU __     \_       >    _/       .    @))))))))))+++          \ /     
+  ==/  \       \__      __/         .}:<<)))))))))))++ 
+Packet 69 - srcAddr: B dstAddr: A seqNum: 22 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 70 - srcAddr: A dstAddr: B seqNum: 43 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:       /   |   \  
+ /\__o |        /    _/                 <<\\)))))) +++      | () | () | 
+*|__\__/      /___/\ \                     \\   \\   ++     |    |    | 
+ /_ \_              m m                                +    | () | () | 
+                   
+Packet 71 - srcAddr: B dstAddr: A seqNum: 23 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 72 - srcAddr: A dstAddr: B seqNum: 44 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                                           \__/~\__/  
+
+  /\ ___ /\             o       o                          __
+ (  o   o  )             \_____/                        __/o \_
+  \  >#<  /              /=O=O=\     _______            \____  \
+  /       
+Packet 73 - srcAddr: B dstAddr: A seqNum: 24 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 74 - srcAddr: A dstAddr: B seqNum: 45 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: \             /   ^   \   /\\\\\\\\               /   \
+ /         \       ^    \ \___/ /  /\   ___  \        __   //\   \
+|           |     //     \_ V _/  /\   /\\\\  \    __/o \-//--\   \_/
+ \         /    //         \  \__/\   /\ @_/  /    \____  ___  
+Packet 75 - srcAddr: B dstAddr: A seqNum: 25 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 76 - srcAddr: A dstAddr: B seqNum: 46 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: \  |
+  ///  ///   --             \____\____\______/          ||   \ |\ |
+Berton Corson                                          _||   _||_||
+
+      _______                     /               __            ____
+ ,-~~~       ~~~-,   \\\' ,      / //        
+Packet 77 - srcAddr: B dstAddr: A seqNum: 26 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 78 - srcAddr: A dstAddr: B seqNum: 47 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     /  \     __  _/    \_  __
+(                 )   \\\//    _/ //'           / ..|\   |  \/        \/  |
+ \_-, , , , , ,-_/     \_-//' /  //<'          (_\  |_)  | \            / |
+    / / | | \ \          \ ///  <//'           /  \@'     \_/ _      _ \_/
+Packet 79 - srcAddr: B dstAddr: A seqNum: 27 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 80 - srcAddr: A dstAddr: B seqNum: 48 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: 
+    | | | | | |          /  >>   \\\`         /     \      | /_\    /_\ |
+    | | | | | |         /,)-^>>  _\`     _   /  `   |      | \_/\__/\_/ |
+   / / /   \ \ \        (/   \\ / \\\    \\/  \  | _\      |     \/     |
+   | | |   | | |              // 
+Packet 81 - srcAddr: B dstAddr: A seqNum: 28 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 82 - srcAddr: A dstAddr: B seqNum: 49 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  //\\\   \   /_ || \\_     | \__/\__/ |
+                             ((`           \____)|_) \_)     \_      _/
+                                                               \____/
+
+
+
+        ,     \    /      ,        
+       / \    )\__/(     / \      
+Packet 83 - srcAddr: B dstAddr: A seqNum: 29 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 84 - srcAddr: A dstAddr: B seqNum: 50 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  
+      /   \  (_\  /_)   /   \      
+ ____/_____\__\@  @/___/_____\____ 
+|             |\../|              |
+|              \VV/               |
+|        ----------------         |
+|_________________________________|
+ |    /\ /      \\       \ /\    | 
+ |
+Packet 85 - srcAddr: B dstAddr: A seqNum: 30 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 86 - srcAddr: A dstAddr: B seqNum: 51 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   /   V        ))       V   \  | 
+ |/     `       //        '     \| 
+ `              V                ' 
+                                   
+
+   ***                        
+  ** **                       
+ **   **                      
+ **   **         ***
+Packet 87 - srcAddr: B dstAddr: A seqNum: 31 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 88 - srcAddr: A dstAddr: B seqNum: 52 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: *         
+ **   **       **   ****                  FISHKISSFISHKIS               
+ **  **       *   **   **             SFISHKISSFISHKISSFISH            F
+  **  *      *  **  ***  **        ISHK   ISSFISHKISSFISHKISS         FI
+   **  *    *  **     **  
+Packet 89 - srcAddr: B dstAddr: A seqNum: 32 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 90 - srcAddr: A dstAddr: B seqNum: 53 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: *      SHKISS   FISHKISSFISHKISSFISS       FIS
+    ** **  ** **        **     HKISSFISHKISSFISHKISSFISHKISSFISH    KISS
+    **   **  **                  FISHKISSFISHKISSFISHKISSFISHKISS  FISHK
+   *           *                     SSFISHKISSFISHKISSFISHKISS
+Packet 91 - srcAddr: B dstAddr: A seqNum: 33 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 92 - srcAddr: A dstAddr: B seqNum: 54 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: FISHKISSF
+  *             *                ISHKISSFISHKISSFISHKISSFISHKISSF  ISHKI
+ *    0     0    *             SSFISHKISSFISHKISSFISHKISSFISHKIS    SFIS
+ *   /   @   \   *               HKISSFISHKISSFISHKISSFISHKISS       FIS
+ *   \__/ \__/   *         
+Packet 93 - srcAddr: B dstAddr: A seqNum: 34 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 94 - srcAddr: A dstAddr: B seqNum: 55 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:         HKISSFISHKISSFISHKISSFISHK         IS
+   *     W     *                      SFISHKISSFISHKISSFISH            K
+     **     **                          ISSFISHKISSFISHK                
+       *****                  
+
+
+
+ \      oo
+  \____|\mm
+  //_/
+Packet 95 - srcAddr: B dstAddr: A seqNum: 35 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 96 - srcAddr: A dstAddr: B seqNum: 56 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: /\ \_\
+ /K-9/  \/_/
+/___/_____\
+-----------
+jcs@com.accelr8.saturn (Joe Steger)
+
+       __
+      /oo\
+     |    |
+ ^^  (vvvv)   ^^
+ \\  /\__/\  //
+  \\/      \//
+   /        \        
+  |          |    ^  
+  /          \___/ | 
+ (            )     |
+  \---
+Packet 97 - srcAddr: B dstAddr: A seqNum: 36 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 98 - srcAddr: A dstAddr: B seqNum: 57 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: -------/     /
+    //    \\_____/
+   W       W
+
+
+                --      --
+              .:"  | .:'" |
+            --  ___   ___  -
+          /:.  /  .\ /.  \ .\
+         |:|. ;\___/O\___/  :|
+         |:|. |  `__|__'  | .|
+         |:|.  \_,     ,_/  /
+ 
+Packet 99 - srcAddr: B dstAddr: A seqNum: 37 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 100 - srcAddr: A dstAddr: B seqNum: 58 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:          \______       |__/
+           |:.           \
+          /.:,|  |        \
+         /.:,.|  |         \
+         |::.. \_;_\-;       |
+   _____|::..    .::|       |
+  /   ----,     .::/__,    /__,
+  \_______|,...____;_;_|../_;_|
+
+        _______
+ 
+Packet 101 - srcAddr: B dstAddr: A seqNum: 38 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 102 - srcAddr: A dstAddr: B seqNum: 10 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ---------------$$\-----     $$\          
+                                 ||           |\          
+
+                \\__________ 
+@}-,-`--          \---\_----"        |>>>-->-->|
+
+.-.,-.     _       /\       ^     
+`    '    ( )     /  \     / \    __/\_
+Packet 103 - srcAddr: B dstAddr: A seqNum: 39 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 104 - srcAddr: A dstAddr: B seqNum: 11 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: _    __/\__     /~/
+ \  /    (_ _)    \  /    (_ _)   \    /    \    /    | | 
+  \/      /_\      \/      /_\    /_/\_\     |/\|      \_\
+
+                 (   .       _                     
+  (   .     .  .=##         {~}      ()_()     /     
+.=##   .  (
+Packet 105 - srcAddr: B dstAddr: A seqNum: 40 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 106 - srcAddr: A dstAddr: B seqNum: 12 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:       ( .       ( V-)      (_)      -8-)    =|:-)=
+  ( .   .=##  .       .    "|Y|"               \        
+.     .   ( .    .         _|||_            
+
+
+
+       (__)                     
+       (oo)    o     /| /|/|_   
+      / \/    /    /      _ /   
+ 
+Packet 107 - srcAddr: B dstAddr: A seqNum: 41 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 108 - srcAddr: A dstAddr: B seqNum: 13 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     /  _\===^   ___\_____/___  
+ ___|__/ |/\    (___________(_) 
+*        ^ ^                    
+
+                  __          o======o     _   _   _   _+       |
+                 /..\         |    \\|    /_`-'_`-'_`-'_|  \+/  |
+    ()           \/\/    
+Packet 109 - srcAddr: B dstAddr: A seqNum: 42 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 110 - srcAddr: A dstAddr: B seqNum: 14 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:    < <<<\  ||    \_`M'_`D'_`C'_| _<=>_ |
+ /([<>])\    _  _\~~/\  _   (0-0-)  ||      `-' `-' `-' 0/ \ / o=o
+8  #~~#  8    \/  \/  \/     \^_/   ||                  \/\ ^ /`0
+   #  #          /\/\        /()\   ||                  | /_^_\
+  /#  #\        / 
+Packet 111 - srcAddr: B dstAddr: A seqNum: 43 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 112 - srcAddr: A dstAddr: B seqNum: 15 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:    \       (  )  /||\                 | || ||
+              __/    \__      ||   o***   ______________|_d|_|b____
+
+Rachel
+ -  -
+ @  @
+   >
+  \_/
+
+
+        ///////   O O     !!!    \\///    ^ ^    \\\|||///           ----.
+  o o   \-oo-/     |     /o o\   |
+Packet 113 - srcAddr: B dstAddr: A seqNum: 44 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 114 - srcAddr: A dstAddr: B seqNum: 16 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: O O|   (o o)    =======     /\    "   _}
+   o     \--/    \___/  (  >  )  | ( |    ( )    | O   O |   /..\   "@   >
+  \_/     \/      \_/    \ - /   |_@_|   \___/    \`___'/   /_\/_\  |\   7
+                         _] [_     H      !_!      _| |_         
+Packet 115 - srcAddr: B dstAddr: A seqNum: 45 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 116 - srcAddr: A dstAddr: B seqNum: 17 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   / `-- _
+          
+                                                               ________   
+  ____     @@@@@   \\\\|||////   \\\|||///      //////\\     -------+  \  
+ /    \   @(o o)@  \\\     ///  = __   __ =    /        \    \\\\\\\\\  \ 
+/ \||/ \  
+Packet 117 - srcAddr: B dstAddr: A seqNum: 46 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 118 - srcAddr: A dstAddr: B seqNum: 18 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  ( J )   \\  * *  //  =( o) (o )=   _|  _   _ |_   //_//__\\\  |
+| /oo\ |   ( - )   (    ^    )  =    U    =  |.|-(.)-(.)+.|  /\0' `0~ |\ /
+\ \ \/ /    ~|~     \ \___/ /    _________    \|    J   |/   (|^<, ^  .)| 
+ \_||_/   /~~~~~\    \_____/     \__!|!__
+Packet 119 - srcAddr: B dstAddr: A seqNum: 47 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 120 - srcAddr: A dstAddr: B seqNum: 19 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: /     \   ---  /     ( ._.  ||/  
+                                    \_/         \      /       \ .  / |   
+                                                 "####"         +--/  |   
+   @@@@@@  
+  @@@@@ @@ 
+ @@@    @@@
+  @ 0  0 @@
+  @  I   @@
+  @  +    @
+
+Packet 121 - srcAddr: B dstAddr: A seqNum: 48 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 122 - srcAddr: A dstAddr: B seqNum: 20 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   @ ===   @
+          
+
+                                                          .......
+      ***           @@@@@@@       #############       .:::::::::::::.  
+    *******         @@  @@@@      ##         ##      .::'  '''''  '::. 
+   *********       @@ 
+Packet 123 - srcAddr: B dstAddr: A seqNum: 49 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 124 - srcAddr: A dstAddr: B seqNum: 21 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:    @@@      #  ~~   ~~  #      :::           ::: 
+/\* ### ### */\    @ 0  0 @@@     #  ()   ()  #      :::           ::: 
+|    @ / @    |   @@  I   @@@@    (     ^     )      :::           ::: 
+\/\    ^    /\/   @@      @@@@     |         |       ::'      
+Packet 125 - srcAddr: B dstAddr: A seqNum: 50 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 126 - srcAddr: A dstAddr: B seqNum: 22 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:      ':: 
+   \  ===  /      @@  ==  @@@      |  {===}  |      : : /~~~' '~~~\ : :
+    \_____/        @+     @@        \       /       :(:  <o> | <o>  :):
+     _|_|_         @+++  +@@       /  -----  \      '.:     / \     :.'
+  *$$$$$$$$$*       @+   +@   
+Packet 127 - srcAddr: B dstAddr: A seqNum: 51 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 128 - srcAddr: A dstAddr: B seqNum: 23 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   ---  |%\ /%|  ---    ':    (. .)    :' 
+                     +88$8     /     |%%%%%|     \    '.  .:::::.  .'
+                                     |%/ \%|           :  <----->  :   
+                                                       '.  ~:::~  .'
+   
+Packet 129 - srcAddr: B dstAddr: A seqNum: 52 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 130 - srcAddr: A dstAddr: B seqNum: 24 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                                                       '.  '  .'     
+                                                           '''''       
+              ____
+            _(____)_
+     ___ooO_(_o__o_)_Ooo___
+
+       \|||/
+       (o o)
+----ooO-(_)-Ooo-----
+Packet 131 - srcAddr: B dstAddr: A seqNum: 53 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 132 - srcAddr: A dstAddr: B seqNum: 25 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ---
+
+   ( ( (                   ))
+    ) ) )                 ((
+    ( ( (           ___o___)
+   '. ___ .'        |     |====O
+  '  (> <) '        |_____|
+--ooO-(_)-Ooo--------------------
+
+
+     """""""       
+     ^-O-O-^       
+---ooO--U--Ooo-----
+
+
+    
+Packet 133 - srcAddr: B dstAddr: A seqNum: 54 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 134 - srcAddr: A dstAddr: B seqNum: 26 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:            ......               
+            .:||||||||:.            
+           /            \           
+          (   o      o   )          
+--@@@@----------:  :----------@@@@--
+
+        >\\\|/<
+        |_"""_|
+        (O) (o)
++----OOO--(_)--OOOo-------
+Packet 135 - srcAddr: B dstAddr: A seqNum: 55 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 136 - srcAddr: A dstAddr: B seqNum: 27 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: -----------=| I was here 2! |=-------------+
+|  Email: jorn@marge.mikom.csir.co.za  /  JHass@mikomtek.csir.co.za  |
+|  SMail: Jorn Hass, Box 40773, Arcadia, 0007, Rep. of South Africa  |
++------|_______|--------( Hi Mom! )---------------------[ (C) 1993 ]-
+Packet 137 - srcAddr: B dstAddr: A seqNum: 56 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 138 - srcAddr: A dstAddr: B seqNum: 28 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: +
+
+
+                                                    @      @              
+                          \\\|||///         / \     { _____}      / \     
+                        .  =======        /  |  \___/*******\___/  |  \   
+  @@@@@      |         / \|
+Packet 139 - srcAddr: B dstAddr: A seqNum: 57 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 140 - srcAddr: A dstAddr: B seqNum: 29 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  O   O |      (   I  /   ~   '   ~   \  I   )  
+ @(o o)@     |         \ / \`___'/        \  |  |   0       0   |  |  /   
+  ( J )      |          #   _| |_           \   |       A       |   /     
+  ( - )      |    /    (#) (     )            \__    _____
+Packet 141 - srcAddr: B dstAddr: A seqNum: 58 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 142 - srcAddr: A dstAddr: B seqNum: 30 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: __    __/       
+   ~|~       |  /       #\//|* *|\\              \_____________/          
+ /~~~~~\     |/         #\/(  *  )/        _-------*         *-------_    
+| |   | \___/|          #   =====         /  /---               ---\  \   
+| |   |   /  |
+Packet 143 - srcAddr: B dstAddr: A seqNum: 10 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 144 - srcAddr: A dstAddr: B seqNum: 31 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:           #   ( U )       /  /     (             )     \  \ 
+| |   |       \____     #   || ||      {  (     (               )     )  }
+                       .#---'| |`----.  \  \    |               |    /  / 
+                       `#----' `-----'    \  
+Packet 145 - srcAddr: B dstAddr: A seqNum: 11 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 146 - srcAddr: A dstAddr: B seqNum: 32 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: \  |               |  /  /   
+                                           **** |               | ****    
+                                          //|\\  \_____________/  //|\\   
+                                          *         '*** ***'         *   
+ 
+Packet 147 - srcAddr: B dstAddr: A seqNum: 12 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 148 - srcAddr: A dstAddr: B seqNum: 33 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                                         ***.       .*** ***.       .***  
+                                         '*************' '*************'  
+
+
+                                       """""""    
+                                       |""""""    
+  
+Packet 149 - srcAddr: B dstAddr: A seqNum: 13 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 150 - srcAddr: A dstAddr: B seqNum: 34 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                        _________     O   C""    
+                        //-------\\   /_     \    
+L______________||O-----------------\   |____/_\ / 
+-----------------||||| =========== /\ ____\    v|\
+                  OOOO-L______________          / 
+   
+Packet 151 - srcAddr: B dstAddr: A seqNum: 14 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 152 - srcAddr: A dstAddr: B seqNum: 35 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                  --____||||___\<               
+                          ||||    (|-- |          
+                          ----                    
+      ----.
+     "   _}
+     "@   >
+     |\   7
+     / `-- _         ,-------,****
+  ~    >o<  \---------o
+Packet 153 - srcAddr: B dstAddr: A seqNum: 15 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 154 - srcAddr: A dstAddr: B seqNum: 36 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: {___}-
+ /  |  \  /  ________/8'
+ |  |       /         "
+ |  /      |
+
+
+    ___________  || o   > =====| === \
+ ~Y/ =====-__|~==\|   U > ===   BULLET>
+   / |L)~~~       \  ___ > ===== / === }
+   |_|     BAM!    \_____/
+
+
+        _---_              
+       #
+Packet 155 - srcAddr: B dstAddr: A seqNum: 16 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 156 - srcAddr: A dstAddr: B seqNum: 37 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ##  '\             
+       ##    )             
+        -----_________===='
+      (      -------- /'   
+     /|      |             
+    /  |    |              
+     \ |    |              
+       |     -_____        
+       \    _____  \       
+        |  /
+Packet 157 - srcAddr: B dstAddr: A seqNum: 17 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 158 - srcAddr: A dstAddr: B seqNum: 38 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:       | |      
+ ______/  /        | |__   
+\ _______/          |___)  
+  \                        
+
+           __    __
+        _/    \/    \_
+      /  __--\__/--__  \
+    / _--            --_ \
+  /_--                  --_\
+ --                        --
+ 
+Packet 159 - srcAddr: B dstAddr: A seqNum: 18 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 160 - srcAddr: A dstAddr: B seqNum: 39 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   \-_____          _____-/
+     \__    ------    __/
+         \__________/
+
+
+~       . ...... .        ~
+ ~   .               .   ~
+  ~.    __       __    .~
+ .     @@@       @@@     .
+.            /            .
+.           /             .
+.          /  
+Packet 161 - srcAddr: B dstAddr: A seqNum: 19 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 162 - srcAddr: A dstAddr: B seqNum: 40 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:             .
+ .     *  ----     *     .
+  .     *         *     .
+    .     *******     .
+       .           .
+            ...
+
+
+
+ /\ /\      /\ \  / /\       ( )_( )     |\    \ \ \ \ \ \ \      __   
+((ovo))    //\\ .. //\\     / \. ./ \    |  \    \ \ 
+Packet 163 - srcAddr: B dstAddr: A seqNum: 20 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 164 - srcAddr: A dstAddr: B seqNum: 41 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: \ \ \ \ \   | O~-_
+():::()    //\((  ))/\\    / __=.=__ \   |   >----|-|-|-|-|-|-|--|  __/
+  VVV      /  < `' >  \    \_ m " m _/   |  /    / / / / / / /   |__\  
+                                         |/     / / / / / / /          
+ 
+
+ |  _       /^\_  
+Packet 165 - srcAddr: B dstAddr: A seqNum: 21 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 166 - srcAddr: A dstAddr: B seqNum: 42 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:          _/|   o           //        +     o       o  
+ \ /       |    \  __  ___/  /    o        //////    ++       \     /   
+  UU __     \_       >    _/       .    @))))))))))+++          \ /     
+  ==/  \       \__      __/         .}:<<)))))))))))++ 
+Packet 167 - srcAddr: B dstAddr: A seqNum: 22 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 168 - srcAddr: A dstAddr: B seqNum: 43 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:       /   |   \  
+ /\__o |        /    _/                 <<\\)))))) +++      | () | () | 
+*|__\__/      /___/\ \                     \\   \\   ++     |    |    | 
+ /_ \_              m m                                +    | () | () | 
+                   
+Packet 169 - srcAddr: B dstAddr: A seqNum: 23 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 170 - srcAddr: A dstAddr: B seqNum: 44 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                                           \__/~\__/  
+
+  /\ ___ /\             o       o                          __
+ (  o   o  )             \_____/                        __/o \_
+  \  >#<  /              /=O=O=\     _______            \____  \
+  /       
+Packet 171 - srcAddr: B dstAddr: A seqNum: 24 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 172 - srcAddr: A dstAddr: B seqNum: 45 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: \             /   ^   \   /\\\\\\\\               /   \
+ /         \       ^    \ \___/ /  /\   ___  \        __   //\   \
+|           |     //     \_ V _/  /\   /\\\\  \    __/o \-//--\   \_/
+ \         /    //         \  \__/\   /\ @_/  /    \____  ___  
+Packet 173 - srcAddr: B dstAddr: A seqNum: 25 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 174 - srcAddr: A dstAddr: B seqNum: 46 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: \  |
+  ///  ///   --             \____\____\______/          ||   \ |\ |
+Berton Corson                                          _||   _||_||
+
+      _______                     /               __            ____
+ ,-~~~       ~~~-,   \\\' ,      / //        
+Packet 175 - srcAddr: B dstAddr: A seqNum: 26 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 176 - srcAddr: A dstAddr: B seqNum: 47 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     /  \     __  _/    \_  __
+(                 )   \\\//    _/ //'           / ..|\   |  \/        \/  |
+ \_-, , , , , ,-_/     \_-//' /  //<'          (_\  |_)  | \            / |
+    / / | | \ \          \ ///  <//'           /  \@'     \_/ _      _ \_/
+Packet 177 - srcAddr: B dstAddr: A seqNum: 27 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 178 - srcAddr: A dstAddr: B seqNum: 48 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: 
+    | | | | | |          /  >>   \\\`         /     \      | /_\    /_\ |
+    | | | | | |         /,)-^>>  _\`     _   /  `   |      | \_/\__/\_/ |
+   / / /   \ \ \        (/   \\ / \\\    \\/  \  | _\      |     \/     |
+   | | |   | | |              // 
+Packet 179 - srcAddr: B dstAddr: A seqNum: 28 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 180 - srcAddr: A dstAddr: B seqNum: 49 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  //\\\   \   /_ || \\_     | \__/\__/ |
+                             ((`           \____)|_) \_)     \_      _/
+                                                               \____/
+
+
+
+        ,     \    /      ,        
+       / \    )\__/(     / \      
+Packet 181 - srcAddr: B dstAddr: A seqNum: 29 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 182 - srcAddr: A dstAddr: B seqNum: 59 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:    #--/        \
+   |   \______   |
+     - ---^^- / /
+             ||/
+             |||
+           .:'':.
+     /^/^^\/     \
+ 0___O_\O_/       |
+ |               /
+ |       .._    /
+  \ ____/   |  |               /
+            |  |             //
+     ^^^^
+Packet 183 - srcAddr: B dstAddr: A seqNum: 30 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 184 - srcAddr: A dstAddr: B seqNum: 60 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ^  |  |            ||
+  ^^^^^^^^^^|  \         __ /|
+ ^^^^^^   ^^|   \       /     \
+ ^^^^^    __|    \____/        |
+   ^^^    \    /               |
+            \-/          (_     \
+             |  |\__________\   |
+            /|  |          \ \  |
+   
+Packet 185 - srcAddr: B dstAddr: A seqNum: 31 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 186 - srcAddr: A dstAddr: B seqNum: 61 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  _____  | |  |     ______\ \  \
+   /    ____/   |    /    ____/   \
+   \(_ /         \   \(_ /        |
+       \_(____.../       \_(_____/
+
+
+STEVE NARMONTAS  SNARMONT@WNEC.BITNET
+
+                        (####)
+                      (#######)
+             
+Packet 187 - srcAddr: B dstAddr: A seqNum: 32 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 188 - srcAddr: A dstAddr: B seqNum: 62 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:        (#########)
+                   (#########)
+   __&__          (#########)
+  /     \        (#########)   |\/\/\/|     /\ /\  /\               /\
+ |       |      (#########)    |      |     | v  \/  \---.    .----/  \----.
+ |  (o)(o)       (o)(o)(##) 
+Packet 189 - srcAddr: B dstAddr: A seqNum: 33 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 190 - srcAddr: A dstAddr: B seqNum: 63 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:    |      |      \_        /       \          /
+ c   .---_)    ,_c     (##)    | (o)(o)       (o)(o)  <__.   .--\ (o)(o) / _.
+  | |.___|    /____,   (##)    c      _)     _c         /     \     ()     /
+  |  \__/       \     (#)       | ,___|     /____,   
+Packet 191 - srcAddr: B dstAddr: A seqNum: 34 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 192 - srcAddr: A dstAddr: B seqNum: 64 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: )  \      >   (c_)   <
+  /_____\        |    |         |   /         \     /----'    /___\____/___\
+ /_____/ \       oooooo        /____\          ooooo             /|    |\
+/         \     /      \      /      \        /     \           /        \
+   Home
+Packet 193 - srcAddr: B dstAddr: A seqNum: 35 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 194 - srcAddr: A dstAddr: B seqNum: 65 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: r         Marge          Bart           Lisa               Maggie
+
+----------------------------------------
+|@@@@@@@^^~~~~~~~~~~~~~~~~~~~~^^@@@@@@@@|
+|@@@@@@^     ~^  @  @@ @ @ @ I  ~^@@@@@@|
+|@@@@@            ~ ~~ ~I          @@@@@|
+|@@@@'               
+Packet 195 - srcAddr: B dstAddr: A seqNum: 36 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 196 - srcAddr: A dstAddr: B seqNum: 66 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:    '  _,w@<    @@@@|
+|@@@@     @@@@@@@@w___,w@@@@@@@@  @  @@@|
+|@@@@     @@@@@@@@@@@@@@@@@@@@@@  I  @@@|
+|@@@@     @@@@@@@@@@@@@@@@@@@@*@[ i  @@@|
+|@@@@     @@@@@@@@@@@@@@@@@@@@[][ | ]@@@|
+|@@@@     ~_,,_ ~@@@@@@@~ ____~ @    @@@|
+|@@@@    _~ ,  ,  `@@@~  
+Packet 197 - srcAddr: B dstAddr: A seqNum: 37 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 198 - srcAddr: A dstAddr: B seqNum: 67 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: _  _`@ ]L  J@@@|
+|@@@@  , @@w@ww+   @@@ww``,,@w@ ][  @@@@|
+|@@@@,  @@@@www@@@ @@@@@@@ww@@@@@[  @@@@|
+|@@@@@_|| @@@@@@P' @@P@@@@@@@@@@@[|c@@@@|
+|@@@@@@w| '@@P~  P]@@@-~, ~Y@@^'],@@@@@@|
+|@@@@@@@[   _        _J@@Tk     ]]@@@@@@|
+|@@@@@@@@,@ @@, c,,,,,,,y ,w@
+Packet 199 - srcAddr: B dstAddr: A seqNum: 38 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 200 - srcAddr: A dstAddr: B seqNum: 68 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: @[ ,@@@@@@@|
+|@@@@@@@@@ i @w   ====--_@@@@@  @@@@@@@@|
+|@@@@@@@@@@`,P~ _ ~^^^^Y@@@@@  @@@@@@@@@|
+|@@@@^^=^@@^   ^' ,ww,w@@@@@ _@@@@@@@@@@|
+|@@@_xJ~ ~   ,    @@@@@@@P~_@@@@@@@@@@@@|
+|@@   @,   ,@@@,_____   _,J@@@@@@@@@@@@@|
+|@@L  `' ,@@@@@@@@@@@@@@@@@@@@@@@
+Packet 201 - srcAddr: B dstAddr: A seqNum: 39 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 202 - srcAddr: A dstAddr: B seqNum: 69 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: @@@@@@@|
+|@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@|
+----------------------------------------
+
+                                                   
+                            (  (    )      ##o##o# 
+ _   _   _                ( (     )   )   #o###o###
+(O) (O)
+Packet 203 - srcAddr: B dstAddr: A seqNum: 40 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 204 - srcAddr: A dstAddr: B seqNum: 70 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  (O)     _         ( (         )   ##o###o##
+  \  |  /    __( )__     (           / )   ##o#o## 
+    \|/     (__>O<__)   ( ( \\       )        |    
+   /~~~\       (_)          ( |  // )         |    
+  |     |       |             |   |           |  / 
+  |
+Packet 205 - srcAddr: B dstAddr: A seqNum: 41 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 206 - srcAddr: A dstAddr: B seqNum: 71 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:      |       |             |   |           |/   
+  |     |       |             |   |           |    
+   \___/        |             |   |           |    
+              ///\_       ``'-------     __ //|/// 
+                                                   
+Packet 207 - srcAddr: B dstAddr: A seqNum: 42 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 208 - srcAddr: A dstAddr: B seqNum: 72 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: 
+                                                   
+
+
+          _____           
+        /  ___  \         
+      /  /  _  \  \       
+    /( /( /(_)\ )\ )\             __   __
+   (  \  \ ___ /  /  )           /  \./  \/\_
+   (    \ _____ /    )       __
+Packet 209 - srcAddr: B dstAddr: A seqNum: 43 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 210 - srcAddr: A dstAddr: B seqNum: 73 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: {^\_ _}_   )  }/^\
+   /(               )\      /  /\_/^\._}_/  //  /
+  |  \             /  |    (  (__{(@)}\__}.//_/__A____A___
+  |    \ _______ /    |     \__/{/(_)\_}  )\\ \\---v-----V
+   \    / \   / \    /        (   (__)_)_/  )\ \>
+     \/    | |    \
+Packet 211 - srcAddr: B dstAddr: A seqNum: 44 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 212 - srcAddr: A dstAddr: B seqNum: 74 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: /           \__/     \__/\/\/
+           | |                    \__,--'
+           | |            
+           | |            
+
+
+                                                     /-_-\
+         .-~~-.--.                                  /  /  \
+        :
+Packet 213 - srcAddr: B dstAddr: A seqNum: 45 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 214 - srcAddr: A dstAddr: B seqNum: 75 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:          )                                /  /    \
+  .~ ~ -.\       /.- ~~ .                          \  \    /
+  >       `.   .'       <                           \__\__/
+ (         .- -.         )                             \\
+  `- -.-~  `- -'  ~-.- -'
+Packet 215 - srcAddr: B dstAddr: A seqNum: 46 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 216 - srcAddr: A dstAddr: B seqNum: 76 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                               -\\    ____
+    (        :        )           _ _ .-:                \\  /   /
+     ~--.    :    .--~        .-~  .-~  }          ____   \\/___/
+         ~-.-^-.-~ \_      .~  .-~   .~            \   \ -//
+                  \ 
+Packet 217 - srcAddr: B dstAddr: A seqNum: 47 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 218 - srcAddr: A dstAddr: B seqNum: 77 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: \'     \ '_ _ -~                \___\//-
+                   `.`.    //                          -//
+          . - ~ ~-.__`.`-.//                            \\
+      .-~   . - ~  }~ ~ ~-.~-.                          //
+    .' .-~      .-~       :/~-.~-./:  
+Packet 219 - srcAddr: B dstAddr: A seqNum: 48 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 220 - srcAddr: A dstAddr: B seqNum: 78 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                  //-
+   /_~_ _ . - ~                 ~-.~-._              -//
+                                    ~-.<             //
+                                                     \\  
+                                                      \\
+
+
+    
+Packet 221 - srcAddr: B dstAddr: A seqNum: 49 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 222 - srcAddr: A dstAddr: B seqNum: 79 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:               ***          ***
+               ***....**     **...***
+              **........** **.......**
+       ***    **..........*.........**    ***
+    **.....**  **..................**  **.....**
+  **.........**  **..............**  **.........**
+ *
+Packet 223 - srcAddr: B dstAddr: A seqNum: 59 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 224 - srcAddr: A dstAddr: B seqNum: 80 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ..............*   *..........*   *..............*
+  **..............*   *......*   *..............**
+    **..............** *....* **..............**
+      *......................................*
+    **..............**........**..............**
+  **......
+Packet 225 - srcAddr: B dstAddr: A seqNum: 60 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 226 - srcAddr: A dstAddr: B seqNum: 81 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ........*    *....*    *..............**
+ *..............*      *....*      *..............*
+  **.........**        *....*        **.........**
+    **.....**         *....*           **.....**
+       ***          **....*               ***
+                 
+Packet 227 - srcAddr: B dstAddr: A seqNum: 61 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 228 - srcAddr: A dstAddr: B seqNum: 82 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  ** * * *
+
+
+ __________/|                         |\__________  
+(_|__|_____\|________         ________|/_____|__|_) 
+      |_|____________)-     -(____________|_|       
+
+                                   ,         __
+   ___________/|      }====TTT==\=(|
+Packet 229 - srcAddr: B dstAddr: A seqNum: 62 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 230 - srcAddr: A dstAddr: B seqNum: 83 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   o/`  o/o/
+    (__|||__) \|        \==III==/  `   o/`
+
+
+(\                                                       
+\'\                        ___    A         ___       /\           
+ \'\     __________        | |   {*}        | |      /  \    |\**/|
+ / '|
+Packet 231 - srcAddr: B dstAddr: A seqNum: 63 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 232 - srcAddr: A dstAddr: B seqNum: 84 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:    ()_________)       | |  __V__      /   \     |  |    \ == /
+ \ '/    \ ~~~~~~~~ \      |_|o_|%%%|0_   (_____)    |  |     |  | 
+   \       \ ~~~~~~   \       |       |   |     |   / == \    |  | 
+   ==).      \__________\     |       |   |_____|   |/**\
+Packet 233 - srcAddr: B dstAddr: A seqNum: 64 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 234 - srcAddr: A dstAddr: B seqNum: 85 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: |    \  / 
+  (__)       ()__________)    |_______|   (_____)              \/  
+
+
+      + .*.*.######
+     /*.*.*.######+@###
+   //*.*.*&*######+@##
+  //######&######++@##
+ //######&'       +@#
+/(
+
+
+    .
+   .
+  . .
+   ...
+ \~~~~~/
+  \   /
+   \ /
+    V
+    
+Packet 235 - srcAddr: B dstAddr: A seqNum: 65 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 236 - srcAddr: A dstAddr: B seqNum: 86 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: |
+    |
+   ---
+
+_____+++              ***
+        |          **** | ****
+     + /        *** | | | | | ***
+     + |    []**| | | | | | | | |**[]
+       |    []* | | | | | | | | | *[]
+        ****^^^^^^^^^^^^^^^^^^^^^^^^****
+        ****    __|__           
+Packet 237 - srcAddr: B dstAddr: A seqNum: 66 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 238 - srcAddr: A dstAddr: B seqNum: 87 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     ****
+         ***    \___/               ***
+            *~~~~~~~~~~~~~~~~~~~~~~*
+
+
+                   /\
+                  /  )
+                (__/
+        ____     //
+  _--~~~    ~~~-//
+ /   ()   ()   // )
+|           _-//-~
+| ()       (_//
+|       
+Packet 239 - srcAddr: B dstAddr: A seqNum: 67 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 240 - srcAddr: A dstAddr: B seqNum: 88 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:      ~~---_
+ \  ()       ()    )
+  ~--__  ()    __-~
+       ~//~~~~~
+       //
+
+    __________________   __________________
+.-/|                  \ /                  |\-.
+||||                   |                   ||||
+||||                   |       ~~*~~
+Packet 241 - srcAddr: B dstAddr: A seqNum: 68 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 242 - srcAddr: A dstAddr: B seqNum: 89 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:        ||||
+||||    --==*==--      |                   ||||
+||||                   |                   ||||
+||||                   |                   ||||
+||||                   |     --==*==--     ||||
+||||                   |                   ||||
+||||
+Packet 243 - srcAddr: B dstAddr: A seqNum: 69 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 244 - srcAddr: A dstAddr: B seqNum: 90 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                    |                   ||||
+||||                   |                   ||||
+||||                   |                   ||||
+||||__________________ | __________________||||
+||/===================\|/===================\||
+`-------------------
+Packet 245 - srcAddr: B dstAddr: A seqNum: 70 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 246 - srcAddr: A dstAddr: B seqNum: 91 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: -~___~-------------------''
+
+
+      /\      
+     /\*\     
+    /\O\*\    
+   /*/\/\/\   
+  /\O\/\*\/\  
+ /\*\/\*\/\/\ 
+/\O\/\/*/\/O/\
+      ||      
+      ||      
+      ||      
+
+         * 
+        /|\                  
+       /*|O\                 
+   
+Packet 247 - srcAddr: B dstAddr: A seqNum: 71 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 248 - srcAddr: A dstAddr: B seqNum: 92 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   /X/O|*\X\               
+    /*/X/|\X\*\              
+   /O/*/X|*\O\X\             
+  /*/O/X/|\X\O\*\            
+ /X/O/*/X|O\X\*\O\           
+/O/X/*/O/|\X\*\O\X\          
+        |X|                  
+        |X|                  
+
+                 _
+Packet 249 - srcAddr: B dstAddr: A seqNum: 72 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 250 - srcAddr: A dstAddr: B seqNum: 93 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: _/\__     
+                 \ ** /      
+                 /_**_\
+                 / \/ \
+               // ^  $ \\
+             /____________\
+            //  *  %    \\^
+          ^/ /  @   +  #  \ \
+         /__/______________\__\^
+        * /  /   +    
+Packet 251 - srcAddr: B dstAddr: A seqNum: 73 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 252 - srcAddr: A dstAddr: B seqNum: 94 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     \  \ *
+       /%  /$ M E R R Y * \ # \
+     ^/____/____o___________\____\
+     * /  ^/            @  \    \ *
+     / %  /C H R I S T M A S\   # \
+  o/^    /o          #   %   \o    ^\
+/_____/_______________________\______\
+*   o   *    o   | * |  o   *
+Packet 253 - srcAddr: B dstAddr: A seqNum: 74 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 254 - srcAddr: A dstAddr: B seqNum: 95 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     o   *
+                 |   |
+                 |___|
+
+           *
+           |
+ * * * *   |   * * * *
+  \ \ \ \__|__/ / / /
+    \ \ \__|__/ / /
+      \ \__|__/ /
+        \__|__/
+           |
+           |
+         __|__
+        |     |  
+
+          ____
+Packet 255 - srcAddr: B dstAddr: A seqNum: 75 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 256 - srcAddr: A dstAddr: B seqNum: 96 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: 
+     ---        ---
+  ---              ---
+ --        _         --
+--         |>         --
+--         |<         --
+ --        |>        --
+  --       |<       --
+   --      |>      --
+    --     ||-    --
+     --    ||    --
+      --   ||   --
+      |__
+Packet 257 - srcAddr: B dstAddr: A seqNum: 76 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 258 - srcAddr: A dstAddr: B seqNum: 97 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ________|
+      <__________>
+      <__________>
+           \/
+
+
+        _---_                _---_
+       (     )              (     )
+        \   /       _---_    \   /
+   _---_ \/        (     )    \/
+  (     )|  _---_   \   /      |    _---_
+   \   / | 
+Packet 259 - srcAddr: A dstAddr: B seqNum: 98 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: (     )   \/    _---_|  (     )
+    \/   |  \   /     |   (     )   \   /
+     |  |    \/       |    \   /|    \/
+      | |     |        |     \/ |     |
+       | |  __/          |    | |     |
+        || /              |   | |    |
+        |||            
+Packet 260 - srcAddr: B dstAddr: A seqNum: 77 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 261 - srcAddr: A dstAddr: B seqNum: 99 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     |   ||   |
+         ||                 |  ||  /
+          |                   \ || |
+          |                    ||||
+           |                     ||
+
+
+           |\
+          /  |         
+         |  /          
+         _\|__         
+       
+Packet 262 - srcAddr: B dstAddr: A seqNum: 78 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 263 - srcAddr: A dstAddr: B seqNum: 100 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  |     |        
+    __X-|     |-X__    
+  /~    |     |     \  
+ X      |     |      X
+        |     |     /
+    _X-----X----X ~    
+  /     |     |
+ X      |     |      X 
+  \     |     |    _/  
+    X~--|     |-X~~    
+        |_    |        
+          
+Packet 264 - srcAddr: B dstAddr: A seqNum: 79 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 265 - srcAddr: A dstAddr: B seqNum: 101 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ~--_|
+
+          ______________
+         /             /|
+        /             / |
+       /____________ /  |
+      | ___________ |   |
+      ||           ||   |
+      ||           ||   |
+      ||           ||   |
+      ||___________||   |
+      |   ______
+Packet 266 - srcAddr: B dstAddr: A seqNum: 80 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 267 - srcAddr: A dstAddr: B seqNum: 102 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: _   |  /
+     /|  (_______)  | /
+    ( |_____________|/
+     \
+ .=======================.
+ | ::::::::::::::::  ::: |
+ | ::::::::::::::[]  ::: |
+ |   -----------     ::: |
+ `-----------------------'
+
++---------------------------------------------+
+         
+Packet 268 - srcAddr: B dstAddr: A seqNum: 81 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 269 - srcAddr: A dstAddr: B seqNum: 103 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                                     |
+    __________________________________       |
+   |                                  |      |
+   |                                  |      |
+   |                                  |      |
+   |                          
+Packet 270 - srcAddr: B dstAddr: A seqNum: 82 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 271 - srcAddr: A dstAddr: B seqNum: 104 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:         |      |
+   |                                  |      |
+   |                                  |      |
+   |                                  |  O   |
+   |                                  |  O   |
+   |__________________________________|      |
+   _
+Packet 272 - srcAddr: B dstAddr: A seqNum: 83 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 273 - srcAddr: A dstAddr: B seqNum: 105 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ___________________________________________
++--| \                                          \
+  |   \ [][][][][][][][][][][][][][][][] [][][]  \
+    \   \  [][][][][][][][][][][][][][][]  [][][] \
+      \   \ [][][][][][][][][][][][][][]    [][][]  \
+     
+Packet 274 - srcAddr: B dstAddr: A seqNum: 84 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 275 - srcAddr: A dstAddr: B seqNum: 106 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:    \   \________________________________________\
+          \_|________________________________________|
+
+        ___
+      o|* *|o
+      o|* *|o
+      o|* *|o
+       \===/
+        |||
+        |||
+        |||
+        |||
+     ___|||___
+    /   |||   \
+   /
+Packet 276 - srcAddr: B dstAddr: A seqNum: 85 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 277 - srcAddr: A dstAddr: B seqNum: 107 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     |||    \
+  |     |||     |
+   \   (|||)   /
+    |   |||   |
+   /    |||    \
+  /     |||     \
+ /      |||      \
+ |     [===]     |
+  \             /
+   '.         .'
+     '-------'
+
+        ___
+_______(_@_)_______
+| POLICE      BOX |
+|_______________
+Packet 278 - srcAddr: B dstAddr: A seqNum: 86 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 279 - srcAddr: A dstAddr: B seqNum: 108 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: __|
+ | _____ | _____ |
+ | |###| | |###| |
+ | |###| | |###| | 
+ | _____ | _____ |
+ | || || | || || |
+ | ||_|| | ||_|| |
+ | _____ |$_____ |
+ | || || | || || |
+ | ||_|| | ||_|| |
+ | _____ | _____ |
+ | || || | || || | 
+ | ||_|| | ||_|| | 
+ |       |       | 
+ 
+Packet 280 - srcAddr: B dstAddr: A seqNum: 87 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 281 - srcAddr: A dstAddr: B seqNum: 109 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ***************** 
+
+               ************************
+           ********************************
+       ****************************************
+   ************************************************
+  **************************************************
+Packet 282 - srcAddr: B dstAddr: A seqNum: 88 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 283 - srcAddr: A dstAddr: B seqNum: 110 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: 
+ ****************************************************
+********************** B O O M ***********************
+******************************************************
+ ****************************************************
+  ********************\\\\\/////*****
+Packet 284 - srcAddr: B dstAddr: A seqNum: 89 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 285 - srcAddr: A dstAddr: B seqNum: 111 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ***************
+     ***************   ||||||||   ***************
+        *************  ||||||||  *************
+           **********  ||||||||  **********
+                       ||||||||
+                       ||||||||
+                       ||||||||
+   
+Packet 286 - srcAddr: B dstAddr: A seqNum: 90 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 287 - srcAddr: A dstAddr: B seqNum: 112 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                     ||||||||
+                      /////\\\\\
+<<<#$*#%$^#$*#$#%$#%^|$|((  ))$$|%&#@'%'%$%$|'*$$'*>>
+
+
+()   ()      ()    /
+  ()      ()  ()  /
+   ______________/___
+   \            /   /
+    \^^^^^^^^^^/^^^/
+     \     ___/   /
+      \   ( 
+Packet 288 - srcAddr: B dstAddr: A seqNum: 91 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 289 - srcAddr: A dstAddr: B seqNum: 113 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   )  /
+       \  (___) /
+        \ /    /
+         \    /
+          \  /
+           \/
+           ||
+           ||
+           ||
+           ||
+           ||
+           /\
+          /;;\
+     ==============
+
+   /\
+  /  \
+ / ___\___
+/__||---||
+
+
+  /^\
+  |#|
+
+Packet 290 - srcAddr: B dstAddr: A seqNum: 92 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 291 - srcAddr: A dstAddr: B seqNum: 114 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  |===|
+  |0|
+  | |
+ =====
+_||_||_
+
+
+       +
+       |
+      /\\
+      | ||
+ -----| |/\
+        /  \
+ ------/ ^^ \
+  O O  | || |
+       | || |
+
+   / \               / \
+  /   \             /   \
+ (_____)           (_____)
+  |   |  _   _   _  |   |
+  | O |_|
+Packet 292 - srcAddr: B dstAddr: A seqNum: 93 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 293 - srcAddr: A dstAddr: B seqNum: 115 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  |_| |_| |_| O |
+  |-  |          _  | - |
+  |   |   - _^_     |   |
+  |  _|    //|\\  - |   |
+  |   |   ///|\\\   |  -|
+  |-  |_  |||||||   |   |
+  |   |   |||||||   |-  |
+  |___|___|||||||___|___|
+          (      (
+           \      \
+            )     
+Packet 294 - srcAddr: B dstAddr: A seqNum: 94 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 295 - srcAddr: A dstAddr: B seqNum: 116 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  )
+            |      |
+            (      (
+             \      \
+
+                       /\
+                      /\/\ /\
+                     /\/\//\/\
+                    /\/\//\/\/\ /\
+                   /\/\//\/\/\/\\/\
+                  /\/\//\/\/\/
+Packet 296 - srcAddr: B dstAddr: A seqNum: 95 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 297 - srcAddr: A dstAddr: B seqNum: 117 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: \/\\/\
+           __        |/\/\/\/\/\/\\/\
+       _-~~  ~~-_    /\/\/\/\/\/\/\\/\
+  __--~  __---__ ~--_||____||___||____________________________
+     __-~_----_ ~-_________||___||________ ____ __  _  _  _  _
+    __-~~      ~-__________||_________________
+Packet 298 - srcAddr: B dstAddr: A seqNum: 96 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 299 - srcAddr: A dstAddr: B seqNum: 118 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ________________
+
+
+                      \  |  /         ___________
+       ____________  \ \_# /         |  ___      |       _________
+      |            |  \  #/          | |   |     |      | = = = = |
+      | |   |   |  |   \\#           | |`v'|     |  
+Packet 300 - srcAddr: B dstAddr: A seqNum: 97 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 301 - srcAddr: A dstAddr: B seqNum: 119 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     |         |
+      |            |    \#  //       |  --- ___  |      | |  || | |
+      | |   |   |  |     #_//        |     |   | |      |         |
+      |            |  \\ #_/_______  |     |   | |      | |  || | |
+      | |   |   |  |   \\# /_____/ \
+Packet 302 - srcAddr: B dstAddr: A seqNum: 98 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 303 - srcAddr: A dstAddr: B seqNum: 120 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  |      ---  |      |         |
+      |            |    \# |+ ++|  | |  |^^^^^^| |      | |  || | |
+      |            |    \# |+ ++|  | |  |^^^^^^| |      | |  || | |
+   ^^^|    (^^^^^) |^^^^^#^| H  |_ |^|  | |||| | |^^^^^^|         |
+      |    ( ||| ) |
+Packet 304 - srcAddr: B dstAddr: A seqNum: 99 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 305 - srcAddr: A dstAddr: B seqNum: 121 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:      # ^^^^^^    |  | |||| | |      | ||||||| |
+      ^^^^^^^^^^^^^________/  /_____ |  | |||| | |      | ||||||| |
+           `v'-                      ^^^^^^^^^^^^^      | ||||||| |
+            || |`.      (__)    (__)                          ( )
+      
+Packet 306 - srcAddr: B dstAddr: A seqNum: 100 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 307 - srcAddr: A dstAddr: B seqNum: 122 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                   (oo)    (oo)                       /---V
+                 /-------\/      \/ --------\             * |  |
+                / |     ||        ||_______| \
+               *  ||W---||        ||      ||  *
+                  ^^    ^^        ^^ 
+Packet 308 - srcAddr: B dstAddr: A seqNum: 101 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 309 - srcAddr: A dstAddr: B seqNum: 123 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:      ^^
+
+
+                                   
+    ...        *                        *       *
+      ...   *         * ..   ...                        *
+ *      ...        *           *            *
+          ...               ...                         
+Packet 310 - srcAddr: B dstAddr: A seqNum: 102 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 311 - srcAddr: A dstAddr: B seqNum: 124 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  *
+            ..                            *
+    *        ..        *                       *
+           __##____              *                      *
+  *    *  /  ##  ****                   *
+         /        ****               *         *  X   *
+   *
+Packet 312 - srcAddr: B dstAddr: A seqNum: 103 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 313 - srcAddr: A dstAddr: B seqNum: 125 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     /        ******     *                    XXX      *
+       /___________*****          *             XXXXX
+        |            ***               *       XXXXXXX   X
+    *   | ___        |                    *   XXXXXXXX  XXX
+  *     | | |   ___  | *   
+Packet 314 - srcAddr: B dstAddr: A seqNum: 104 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 315 - srcAddr: A dstAddr: B seqNum: 126 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     *             XXXXXXXXXXXXXXX
+        | |_|   | |  ****             *           X   XXXXXXX
+    *********** | | *******      *                X      X
+************************************************************
+
+
+                   |>
+               |
+Packet 316 - srcAddr: B dstAddr: A seqNum: 105 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 317 - srcAddr: A dstAddr: B seqNum: 78 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                  //-
+   /_~_ _ . - ~                 ~-.~-._              -//
+                                    ~-.<             //
+                                                     \\  
+                                                      \\
+
+
+    
+Packet 318 - srcAddr: B dstAddr: A seqNum: 106 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 319 - srcAddr: A dstAddr: B seqNum: 79 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:               ***          ***
+               ***....**     **...***
+              **........** **.......**
+       ***    **..........*.........**    ***
+    **.....**  **..................**  **.....**
+  **.........**  **..............**  **.........**
+ *
+Packet 320 - srcAddr: B dstAddr: A seqNum: 107 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 321 - srcAddr: A dstAddr: B seqNum: 80 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ..............*   *..........*   *..............*
+  **..............*   *......*   *..............**
+    **..............** *....* **..............**
+      *......................................*
+    **..............**........**..............**
+  **......
+Packet 322 - srcAddr: B dstAddr: A seqNum: 108 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 323 - srcAddr: A dstAddr: B seqNum: 81 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ........*    *....*    *..............**
+ *..............*      *....*      *..............*
+  **.........**        *....*        **.........**
+    **.....**         *....*           **.....**
+       ***          **....*               ***
+                 
+Packet 324 - srcAddr: B dstAddr: A seqNum: 109 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 325 - srcAddr: A dstAddr: B seqNum: 82 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  ** * * *
+
+
+ __________/|                         |\__________  
+(_|__|_____\|________         ________|/_____|__|_) 
+      |_|____________)-     -(____________|_|       
+
+                                   ,         __
+   ___________/|      }====TTT==\=(|
+Packet 326 - srcAddr: B dstAddr: A seqNum: 110 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 327 - srcAddr: A dstAddr: B seqNum: 83 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   o/`  o/o/
+    (__|||__) \|        \==III==/  `   o/`
+
+
+(\                                                       
+\'\                        ___    A         ___       /\           
+ \'\     __________        | |   {*}        | |      /  \    |\**/|
+ / '|
+Packet 328 - srcAddr: B dstAddr: A seqNum: 111 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 329 - srcAddr: A dstAddr: B seqNum: 84 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:    ()_________)       | |  __V__      /   \     |  |    \ == /
+ \ '/    \ ~~~~~~~~ \      |_|o_|%%%|0_   (_____)    |  |     |  | 
+   \       \ ~~~~~~   \       |       |   |     |   / == \    |  | 
+   ==).      \__________\     |       |   |_____|   |/**\
+Packet 330 - srcAddr: B dstAddr: A seqNum: 112 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 331 - srcAddr: A dstAddr: B seqNum: 85 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: |    \  / 
+  (__)       ()__________)    |_______|   (_____)              \/  
+
+
+      + .*.*.######
+     /*.*.*.######+@###
+   //*.*.*&*######+@##
+  //######&######++@##
+ //######&'       +@#
+/(
+
+
+    .
+   .
+  . .
+   ...
+ \~~~~~/
+  \   /
+   \ /
+    V
+    
+Packet 332 - srcAddr: B dstAddr: A seqNum: 113 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 333 - srcAddr: A dstAddr: B seqNum: 86 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: |
+    |
+   ---
+
+_____+++              ***
+        |          **** | ****
+     + /        *** | | | | | ***
+     + |    []**| | | | | | | | |**[]
+       |    []* | | | | | | | | | *[]
+        ****^^^^^^^^^^^^^^^^^^^^^^^^****
+        ****    __|__           
+Packet 334 - srcAddr: B dstAddr: A seqNum: 114 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 335 - srcAddr: A dstAddr: B seqNum: 87 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     ****
+         ***    \___/               ***
+            *~~~~~~~~~~~~~~~~~~~~~~*
+
+
+                   /\
+                  /  )
+                (__/
+        ____     //
+  _--~~~    ~~~-//
+ /   ()   ()   // )
+|           _-//-~
+| ()       (_//
+|       
+Packet 336 - srcAddr: B dstAddr: A seqNum: 115 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 337 - srcAddr: A dstAddr: B seqNum: 88 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:      ~~---_
+ \  ()       ()    )
+  ~--__  ()    __-~
+       ~//~~~~~
+       //
+
+    __________________   __________________
+.-/|                  \ /                  |\-.
+||||                   |                   ||||
+||||                   |       ~~*~~
+Packet 338 - srcAddr: B dstAddr: A seqNum: 116 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 339 - srcAddr: A dstAddr: B seqNum: 89 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:        ||||
+||||    --==*==--      |                   ||||
+||||                   |                   ||||
+||||                   |                   ||||
+||||                   |     --==*==--     ||||
+||||                   |                   ||||
+||||
+Packet 340 - srcAddr: B dstAddr: A seqNum: 117 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 341 - srcAddr: A dstAddr: B seqNum: 90 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                    |                   ||||
+||||                   |                   ||||
+||||                   |                   ||||
+||||__________________ | __________________||||
+||/===================\|/===================\||
+`-------------------
+Packet 342 - srcAddr: B dstAddr: A seqNum: 118 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 343 - srcAddr: A dstAddr: B seqNum: 91 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: -~___~-------------------''
+
+
+      /\      
+     /\*\     
+    /\O\*\    
+   /*/\/\/\   
+  /\O\/\*\/\  
+ /\*\/\*\/\/\ 
+/\O\/\/*/\/O/\
+      ||      
+      ||      
+      ||      
+
+         * 
+        /|\                  
+       /*|O\                 
+   
+Packet 344 - srcAddr: B dstAddr: A seqNum: 119 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 345 - srcAddr: A dstAddr: B seqNum: 92 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   /X/O|*\X\               
+    /*/X/|\X\*\              
+   /O/*/X|*\O\X\             
+  /*/O/X/|\X\O\*\            
+ /X/O/*/X|O\X\*\O\           
+/O/X/*/O/|\X\*\O\X\          
+        |X|                  
+        |X|                  
+
+                 _
+Packet 346 - srcAddr: B dstAddr: A seqNum: 120 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 347 - srcAddr: A dstAddr: B seqNum: 93 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: _/\__     
+                 \ ** /      
+                 /_**_\
+                 / \/ \
+               // ^  $ \\
+             /____________\
+            //  *  %    \\^
+          ^/ /  @   +  #  \ \
+         /__/______________\__\^
+        * /  /   +    
+Packet 348 - srcAddr: B dstAddr: A seqNum: 121 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 349 - srcAddr: A dstAddr: B seqNum: 94 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     \  \ *
+       /%  /$ M E R R Y * \ # \
+     ^/____/____o___________\____\
+     * /  ^/            @  \    \ *
+     / %  /C H R I S T M A S\   # \
+  o/^    /o          #   %   \o    ^\
+/_____/_______________________\______\
+*   o   *    o   | * |  o   *
+Packet 350 - srcAddr: B dstAddr: A seqNum: 122 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 351 - srcAddr: A dstAddr: B seqNum: 95 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     o   *
+                 |   |
+                 |___|
+
+           *
+           |
+ * * * *   |   * * * *
+  \ \ \ \__|__/ / / /
+    \ \ \__|__/ / /
+      \ \__|__/ /
+        \__|__/
+           |
+           |
+         __|__
+        |     |  
+
+          ____
+Packet 352 - srcAddr: B dstAddr: A seqNum: 123 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 353 - srcAddr: A dstAddr: B seqNum: 96 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: 
+     ---        ---
+  ---              ---
+ --        _         --
+--         |>         --
+--         |<         --
+ --        |>        --
+  --       |<       --
+   --      |>      --
+    --     ||-    --
+     --    ||    --
+      --   ||   --
+      |__
+Packet 354 - srcAddr: B dstAddr: A seqNum: 124 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 355 - srcAddr: A dstAddr: B seqNum: 97 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ________|
+      <__________>
+      <__________>
+           \/
+
+
+        _---_                _---_
+       (     )              (     )
+        \   /       _---_    \   /
+   _---_ \/        (     )    \/
+  (     )|  _---_   \   /      |    _---_
+   \   / | 
+Packet 356 - srcAddr: B dstAddr: A seqNum: 125 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 357 - srcAddr: A dstAddr: B seqNum: 98 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: (     )   \/    _---_|  (     )
+    \/   |  \   /     |   (     )   \   /
+     |  |    \/       |    \   /|    \/
+      | |     |        |     \/ |     |
+       | |  __/          |    | |     |
+        || /              |   | |    |
+        |||            
+Packet 358 - srcAddr: B dstAddr: A seqNum: 126 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 359 - srcAddr: A dstAddr: B seqNum: 99 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     |   ||   |
+         ||                 |  ||  /
+          |                   \ || |
+          |                    ||||
+           |                     ||
+
+
+           |\
+          /  |         
+         |  /          
+         _\|__         
+       
+Packet 360 - srcAddr: B dstAddr: A seqNum: 78 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 361 - srcAddr: A dstAddr: B seqNum: 100 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  |     |        
+    __X-|     |-X__    
+  /~    |     |     \  
+ X      |     |      X
+        |     |     /
+    _X-----X----X ~    
+  /     |     |
+ X      |     |      X 
+  \     |     |    _/  
+    X~--|     |-X~~    
+        |_    |        
+          
+Packet 362 - srcAddr: B dstAddr: A seqNum: 79 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 363 - srcAddr: A dstAddr: B seqNum: 101 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ~--_|
+
+          ______________
+         /             /|
+        /             / |
+       /____________ /  |
+      | ___________ |   |
+      ||           ||   |
+      ||           ||   |
+      ||           ||   |
+      ||___________||   |
+      |   ______
+Packet 364 - srcAddr: B dstAddr: A seqNum: 80 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 365 - srcAddr: A dstAddr: B seqNum: 102 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: _   |  /
+     /|  (_______)  | /
+    ( |_____________|/
+     \
+ .=======================.
+ | ::::::::::::::::  ::: |
+ | ::::::::::::::[]  ::: |
+ |   -----------     ::: |
+ `-----------------------'
+
++---------------------------------------------+
+         
+Packet 366 - srcAddr: B dstAddr: A seqNum: 81 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 367 - srcAddr: A dstAddr: B seqNum: 103 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                                     |
+    __________________________________       |
+   |                                  |      |
+   |                                  |      |
+   |                                  |      |
+   |                          
+Packet 368 - srcAddr: B dstAddr: A seqNum: 82 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 369 - srcAddr: A dstAddr: B seqNum: 104 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:         |      |
+   |                                  |      |
+   |                                  |      |
+   |                                  |  O   |
+   |                                  |  O   |
+   |__________________________________|      |
+   _
+Packet 370 - srcAddr: B dstAddr: A seqNum: 83 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 371 - srcAddr: A dstAddr: B seqNum: 105 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ___________________________________________
++--| \                                          \
+  |   \ [][][][][][][][][][][][][][][][] [][][]  \
+    \   \  [][][][][][][][][][][][][][][]  [][][] \
+      \   \ [][][][][][][][][][][][][][]    [][][]  \
+     
+Packet 372 - srcAddr: B dstAddr: A seqNum: 84 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 373 - srcAddr: A dstAddr: B seqNum: 106 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:    \   \________________________________________\
+          \_|________________________________________|
+
+        ___
+      o|* *|o
+      o|* *|o
+      o|* *|o
+       \===/
+        |||
+        |||
+        |||
+        |||
+     ___|||___
+    /   |||   \
+   /
+Packet 374 - srcAddr: B dstAddr: A seqNum: 85 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 375 - srcAddr: A dstAddr: B seqNum: 107 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     |||    \
+  |     |||     |
+   \   (|||)   /
+    |   |||   |
+   /    |||    \
+  /     |||     \
+ /      |||      \
+ |     [===]     |
+  \             /
+   '.         .'
+     '-------'
+
+        ___
+_______(_@_)_______
+| POLICE      BOX |
+|_______________
+Packet 376 - srcAddr: B dstAddr: A seqNum: 86 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 377 - srcAddr: A dstAddr: B seqNum: 108 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: __|
+ | _____ | _____ |
+ | |###| | |###| |
+ | |###| | |###| | 
+ | _____ | _____ |
+ | || || | || || |
+ | ||_|| | ||_|| |
+ | _____ |$_____ |
+ | || || | || || |
+ | ||_|| | ||_|| |
+ | _____ | _____ |
+ | || || | || || | 
+ | ||_|| | ||_|| | 
+ |       |       | 
+ 
+Packet 378 - srcAddr: B dstAddr: A seqNum: 87 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 379 - srcAddr: A dstAddr: B seqNum: 109 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ***************** 
+
+               ************************
+           ********************************
+       ****************************************
+   ************************************************
+  **************************************************
+Packet 380 - srcAddr: B dstAddr: A seqNum: 88 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 381 - srcAddr: A dstAddr: B seqNum: 110 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: 
+ ****************************************************
+********************** B O O M ***********************
+******************************************************
+ ****************************************************
+  ********************\\\\\/////*****
+Packet 382 - srcAddr: B dstAddr: A seqNum: 89 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 383 - srcAddr: A dstAddr: B seqNum: 111 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ***************
+     ***************   ||||||||   ***************
+        *************  ||||||||  *************
+           **********  ||||||||  **********
+                       ||||||||
+                       ||||||||
+                       ||||||||
+   
+Packet 384 - srcAddr: B dstAddr: A seqNum: 90 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 385 - srcAddr: A dstAddr: B seqNum: 112 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                     ||||||||
+                      /////\\\\\
+<<<#$*#%$^#$*#$#%$#%^|$|((  ))$$|%&#@'%'%$%$|'*$$'*>>
+
+
+()   ()      ()    /
+  ()      ()  ()  /
+   ______________/___
+   \            /   /
+    \^^^^^^^^^^/^^^/
+     \     ___/   /
+      \   ( 
+Packet 386 - srcAddr: B dstAddr: A seqNum: 91 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 387 - srcAddr: A dstAddr: B seqNum: 113 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   )  /
+       \  (___) /
+        \ /    /
+         \    /
+          \  /
+           \/
+           ||
+           ||
+           ||
+           ||
+           ||
+           /\
+          /;;\
+     ==============
+
+   /\
+  /  \
+ / ___\___
+/__||---||
+
+
+  /^\
+  |#|
+
+Packet 388 - srcAddr: B dstAddr: A seqNum: 92 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 389 - srcAddr: A dstAddr: B seqNum: 114 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  |===|
+  |0|
+  | |
+ =====
+_||_||_
+
+
+       +
+       |
+      /\\
+      | ||
+ -----| |/\
+        /  \
+ ------/ ^^ \
+  O O  | || |
+       | || |
+
+   / \               / \
+  /   \             /   \
+ (_____)           (_____)
+  |   |  _   _   _  |   |
+  | O |_|
+Packet 390 - srcAddr: B dstAddr: A seqNum: 93 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 391 - srcAddr: A dstAddr: B seqNum: 115 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  |_| |_| |_| O |
+  |-  |          _  | - |
+  |   |   - _^_     |   |
+  |  _|    //|\\  - |   |
+  |   |   ///|\\\   |  -|
+  |-  |_  |||||||   |   |
+  |   |   |||||||   |-  |
+  |___|___|||||||___|___|
+          (      (
+           \      \
+            )     
+Packet 392 - srcAddr: B dstAddr: A seqNum: 94 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 393 - srcAddr: A dstAddr: B seqNum: 116 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  )
+            |      |
+            (      (
+             \      \
+
+                       /\
+                      /\/\ /\
+                     /\/\//\/\
+                    /\/\//\/\/\ /\
+                   /\/\//\/\/\/\\/\
+                  /\/\//\/\/\/
+Packet 394 - srcAddr: B dstAddr: A seqNum: 95 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 395 - srcAddr: A dstAddr: B seqNum: 117 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: \/\\/\
+           __        |/\/\/\/\/\/\\/\
+       _-~~  ~~-_    /\/\/\/\/\/\/\\/\
+  __--~  __---__ ~--_||____||___||____________________________
+     __-~_----_ ~-_________||___||________ ____ __  _  _  _  _
+    __-~~      ~-__________||_________________
+Packet 396 - srcAddr: B dstAddr: A seqNum: 96 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 397 - srcAddr: A dstAddr: B seqNum: 118 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ________________
+
+
+                      \  |  /         ___________
+       ____________  \ \_# /         |  ___      |       _________
+      |            |  \  #/          | |   |     |      | = = = = |
+      | |   |   |  |   \\#           | |`v'|     |  
+Packet 398 - srcAddr: B dstAddr: A seqNum: 97 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 399 - srcAddr: A dstAddr: B seqNum: 119 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     |         |
+      |            |    \#  //       |  --- ___  |      | |  || | |
+      | |   |   |  |     #_//        |     |   | |      |         |
+      |            |  \\ #_/_______  |     |   | |      | |  || | |
+      | |   |   |  |   \\# /_____/ \
+Packet 400 - srcAddr: B dstAddr: A seqNum: 98 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 401 - srcAddr: A dstAddr: B seqNum: 120 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  |      ---  |      |         |
+      |            |    \# |+ ++|  | |  |^^^^^^| |      | |  || | |
+      |            |    \# |+ ++|  | |  |^^^^^^| |      | |  || | |
+   ^^^|    (^^^^^) |^^^^^#^| H  |_ |^|  | |||| | |^^^^^^|         |
+      |    ( ||| ) |
+Packet 402 - srcAddr: B dstAddr: A seqNum: 99 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 403 - srcAddr: A dstAddr: B seqNum: 121 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:      # ^^^^^^    |  | |||| | |      | ||||||| |
+      ^^^^^^^^^^^^^________/  /_____ |  | |||| | |      | ||||||| |
+           `v'-                      ^^^^^^^^^^^^^      | ||||||| |
+            || |`.      (__)    (__)                          ( )
+      
+Packet 404 - srcAddr: B dstAddr: A seqNum: 100 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 405 - srcAddr: A dstAddr: B seqNum: 122 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                   (oo)    (oo)                       /---V
+                 /-------\/      \/ --------\             * |  |
+                / |     ||        ||_______| \
+               *  ||W---||        ||      ||  *
+                  ^^    ^^        ^^ 
+Packet 406 - srcAddr: B dstAddr: A seqNum: 101 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 407 - srcAddr: A dstAddr: B seqNum: 123 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:      ^^
+
+
+                                   
+    ...        *                        *       *
+      ...   *         * ..   ...                        *
+ *      ...        *           *            *
+          ...               ...                         
+Packet 408 - srcAddr: B dstAddr: A seqNum: 102 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 409 - srcAddr: A dstAddr: B seqNum: 124 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  *
+            ..                            *
+    *        ..        *                       *
+           __##____              *                      *
+  *    *  /  ##  ****                   *
+         /        ****               *         *  X   *
+   *
+Packet 410 - srcAddr: B dstAddr: A seqNum: 103 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 411 - srcAddr: A dstAddr: B seqNum: 125 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     /        ******     *                    XXX      *
+       /___________*****          *             XXXXX
+        |            ***               *       XXXXXXX   X
+    *   | ___        |                    *   XXXXXXXX  XXX
+  *     | | |   ___  | *   
+Packet 412 - srcAddr: B dstAddr: A seqNum: 104 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 413 - srcAddr: A dstAddr: B seqNum: 126 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     *             XXXXXXXXXXXXXXX
+        | |_|   | |  ****             *           X   XXXXXXX
+    *********** | | *******      *                X      X
+************************************************************
+
+
+                   |>
+               |
+Packet 414 - srcAddr: B dstAddr: A seqNum: 105 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 415 - srcAddr: A dstAddr: B seqNum: 127 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: >  |
+               |  III     |>
+             /-|\ III i>  |
+           _|__|__III i   ^
+        |>\______/III i  ^^^
+        |   !__!__III/\ ^^^^^
+       /\\ ////|====IIII ===
+      /\\\/////|====IIII ===
+      | | ||||::::::IIII ===       
+      | | |||
+Packet 416 - srcAddr: B dstAddr: A seqNum: 106 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 417 - srcAddr: A dstAddr: B seqNum: 128 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: |      IIII ===       
+----------------------------------  
+Berton Corson 5280397@mcimail.com
+
+
+________________________________________________________
+|__/||_ _\\  _|____|__/  _  _    \______|____//___||\__|
+_/  | \/  .\_______|/  _//  \\_    \_|__|___/.
+Packet 418 - srcAddr: B dstAddr: A seqNum: 107 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 419 - srcAddr: A dstAddr: B seqNum: 129 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   \/ |  \_
+  |  \/   |\>_/ \\/  _/ /    \ \_    \_//\ </|   \/  |
+   \       \_/ /"|  /   \  \\ \  \_   |"\ \_/       /
+|   |    \____/__| |   __\ /.\/    \  |__\____/    |   |
+|   |    /|____|_|  \ <   / /\>    O| |_|___|_\    |   |
+|  /     \_|_____|   \
+Packet 420 - srcAddr: B dstAddr: A seqNum: 108 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 421 - srcAddr: A dstAddr: B seqNum: 130 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  \___/\     //  |___|__|_|    \  |
+  / /   >  \_|___|    \_\\\\ \___//   |____|__/  < \ \
+   / / /_\  >_|__|       ''\\____/    |___|__<  /_\ \
+  / /| |__| |____|          ''        |_||___| |___| \
+ /_/_|_\._|__\.__|____________________|___|./__|_./__|\
+
+
+Packet 422 - srcAddr: B dstAddr: A seqNum: 109 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 423 - srcAddr: A dstAddr: B seqNum: 131 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     ____             ____                                |+++++|
+   |++++|    ___    |++++|                       ____    |+++++|
+   |++++|   |++ ______________________          |++++|   |+++++|
+   |++++|   |++/      /( )\           \         |++++|   |+++
+Packet 424 - srcAddr: B dstAddr: A seqNum: 110 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 425 - srcAddr: A dstAddr: B seqNum: 132 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ++|   __
+   |    |   |+|      |-oo- |           \______  |++++|   |+++++|  |++|
+  -----(__)--|       \__\/           _(__)_  \ --------------------------------
+   o   ( oo /_______________________| (oo)  \ |         __
+   |  _/\_| |  M O O - B U S T E R S|
+Packet 426 - srcAddr: B dstAddr: A seqNum: 111 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 427 - srcAddr: A dstAddr: B seqNum: 133 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: __\/\ /| |        /oo| - Bleaurgh!
+   |-|  \\____                         ------  )_    /|  /\
+    -|_  \_|-_|^^^^^^^^^^^^^^^^^^^^^^^^^^ 0     _|  *  \/  *
+       \  |  __________________________________/
+       |  W|  \ \_/ /----------------- \ \_/ /
+    
+Packet 428 - srcAddr: B dstAddr: A seqNum: 112 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 429 - srcAddr: A dstAddr: B seqNum: 134 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:    / /\ \  \___/                    \___/
+      / /  \ \
+      ^^^   ^^^        
+
+
+   /`-_
+  {     }/
+   \   ./
+    |___|
+
+
+  |  _________,^-.
+( | )           ,>
+ \|/           {
+`-^-'           ?)  "+
+  |____________  `--~;)
+               \_,-__/
+
+      
+Packet 430 - srcAddr: B dstAddr: A seqNum: 113 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 431 - srcAddr: A dstAddr: B seqNum: 135 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   l
+       ll
+      _;l_____
+    _/        l _,--.
+  _/          l/ _/\_)
+ /             _/
+(           __/
+ \        _/
+  \_    _/
+    `--'
+
+
+
+     ___                                .'-----\\ _
+     \  \                              //      #``.) __
+    
+Packet 432 - srcAddr: B dstAddr: A seqNum: 114 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 433 - srcAddr: A dstAddr: B seqNum: 136 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   \  \_________                     __--~~--_-\\/ |)
+       \           ~~-              _-~~         -_``.|)
+ |\_.--~~~~~~~~~~-._  \________   _~   Harley-   |   \\
+ |/   (} _..._/*/   \          ~\~      Davidson |    ``.--~~~~~--__
+ /___-~~~    /=/~-_  
+Packet 434 - srcAddr: B dstAddr: A seqNum: 115 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 435 - srcAddr: A dstAddr: B seqNum: 137 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ~~~--------~~--------------/    .-~\\ _________~
+   *     ---/=/    \  \       /{}===_____===_  ||   /  __``.    / \   *
+       / __/=/_\____\__\     /[]###/===  \###\ ||  /__/    \\ /
+  |   | [ |*|___________~~~~~==/ ##\_____/## \ \|  |  |------*------|  
+Packet 436 - srcAddr: B dstAddr: A seqNum: 116 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 437 - srcAddr: A dstAddr: B seqNum: 138 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: |
+       \ ~~___________________/ /_##+++++##*  | |           / \
+   *     ---\_)________________/___________\_/ /    *   \ /     \ /   *
+     *           *     \_)____________________/       *    ~~~~~    *
+      -------                                   
+Packet 438 - srcAddr: B dstAddr: A seqNum: 117 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 439 - srcAddr: A dstAddr: B seqNum: 139 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:         -------
+
+
+
+
+
+
+         ____
+     \  i | o|
+     |>#######
+     /(_______)
+
+          /|~~~~   
+         / |)      
+        /  | (     
+       /___|  )    
+   \=======|===/   
+~~~~~~~~~~~~~~~~~~~
+
+
+
+  /["o"]|8
+ ,^-----^==_
+/___________\
+\=\>-----</=
+Packet 440 - srcAddr: B dstAddr: A seqNum: 118 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 441 - srcAddr: A dstAddr: B seqNum: 140 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: /
+
+       _=___=_
+   ___|_>-o-<_|___
+  [/_____U_N_____\]
+   \=\>-------</=/
+      ____                      _____________          _____________
+ ____//_]|________         ____//__][__][___|     ____//__][______||
+(o _ |  -|   _  o|        (o  _|  -|     _
+Packet 442 - srcAddr: B dstAddr: A seqNum: 119 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 443 - srcAddr: A dstAddr: B seqNum: 141 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  o|    (o _ |  -|   _   o|
+ `(_)-------(_)--'         `-(_)--------(_)-'     `(_)-------(_)---'
+    ______________      ________________         __________________
+   //__][__\\____\\    //__][__\\___\\__\       |[_][_][_][_][_][_]|
+  (o _-|         o|   <
+Packet 444 - srcAddr: B dstAddr: A seqNum: 120 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 445 - srcAddr: A dstAddr: B seqNum: 142 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: o  _||  -|   _  o|       |o _         _  _  |
+   `(_)-------(_)-'    `-(_)-------(_)--'        `(_)-------(_)(_)-"
+      ____________              ______               ______
+ ____//__][__\\___\        ____//__][_\       ______//__][_\__
+(o _ |  -|   _   o
+Packet 446 - srcAddr: B dstAddr: A seqNum: 121 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 447 - srcAddr: A dstAddr: B seqNum: 143 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: |       [o _ |  -| _ \     /o _   |  -| _   \
+ `(_)-------(_)---'        `(_)-----(_)-'    `-(_)-------(_)---'
+         ________               _____                   _
+    ____//__][__\\___      ____//__]|               ___//]    ____
+   (o _ |  -|   _  o
+Packet 448 - srcAddr: B dstAddr: A seqNum: 122 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 449 - srcAddr: A dstAddr: B seqNum: 144 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: |     (o _ |   -|_________     |o_   '---' _ |
+    `(_)-------(_)--'      `(_)-------(_)(_)--'    `(_)-------(_)''
+      _                      ______________                _
+ ____//]_________       ____//__]| zorko  |         ______//________
+(o _ |  -| 
+Packet 450 - srcAddr: B dstAddr: A seqNum: 123 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 451 - srcAddr: A dstAddr: B seqNum: 145 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  _  o|      (o _ |   -|  _  _  |        /o _   |  -| _   \
+ `(_)------(_)--'       `(_)-----'-(_)(_)-'        `-(_)-------(_)---'
+
+                o    .  o  .  o .  o  .  o  .  o
+           o
+        .
+      .        ___
+     _n_n_n____i_i ________ ______
+Packet 452 - srcAddr: B dstAddr: A seqNum: 124 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 453 - srcAddr: A dstAddr: B seqNum: 146 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ________ _++++++++++++++_
+  *>(____________I I______I I____________I I______________I
+    /ooOOOO OOOOoo  oo oooo oo          oo ooo          ooo
+------------------------------------------------------------
+
+     OO O o o o...      ______________________ _
+Packet 454 - srcAddr: B dstAddr: A seqNum: 125 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 455 - srcAddr: A dstAddr: B seqNum: 147 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ________________
+    O     ____          |                    | |               |
+   ][_n_i_| (   ooo___  |                    | |               |
+  (__________|_[______]_|____________________|_|_______________|
+    0--0--0      0  0      0       0     0  
+Packet 456 - srcAddr: B dstAddr: A seqNum: 126 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 457 - srcAddr: A dstAddr: B seqNum: 148 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:       0        0
+
+
+    o o o o o o o . . .   ______________________________ _____=======_||____
+   o      _____           ||                            | |                 |
+ .][__n_n_|DD[  ====_____  |                            | |                 |
+>(__
+Packet 458 - srcAddr: B dstAddr: A seqNum: 127 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 459 - srcAddr: A dstAddr: B seqNum: 149 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ______|__|_[_________]_|____________________________|_|_________________|
+_/oo OOOOO oo`  ooo   ooo  'o!o!o                  o!o!o` 'o!o         o!o`
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+    -           __
+  --  
+Packet 460 - srcAddr: B dstAddr: A seqNum: 128 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 461 - srcAddr: A dstAddr: B seqNum: 150 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:         ~( @\   \
+ ---   _________]_[__/_>________
+      /  ____ \ <>     |  ____  \
+     =\_/ __ \_\_______|_/ __ \__D
+ ________(__)_____________(__)____
+
+        _______
+       //  ||\ \
+ _____//___||_\ \___
+ )  _          _    \
+ |_/ \________/ \___|
+__
+Packet 462 - srcAddr: B dstAddr: A seqNum: 129 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 463 - srcAddr: A dstAddr: B seqNum: 151 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: _\_/________\_/______
+
+~From: Colin_Douthwaite@equinox.gen.nz (Colin Douthwaite)
+
+        _________
+       |         |
+ _o_  _| ___=___ |_  _o_
+/`-'( )         ( ) /`-'\
+|   |-|  ___*___  |-|   |
+|   | | (-+-+-+-) | |   |
+|   |--\_KAR120C_/--|   |
+ ---    
+Packet 464 - srcAddr: B dstAddr: A seqNum: 130 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 465 - srcAddr: A dstAddr: B seqNum: 152 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:              ---
+
+                       _____________________________________________________
+                      |                                                     |
+             _______  |                                                     |
+     
+Packet 466 - srcAddr: B dstAddr: A seqNum: 131 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 467 - srcAddr: A dstAddr: B seqNum: 153 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:        / _____ | |                       ACME MOO-VERS                 |
+           / /(__) || |                                                     |
+  ________/ / |OO| || |                                                     |
+ |         |-------|| |    
+Packet 468 - srcAddr: B dstAddr: A seqNum: 132 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 469 - srcAddr: A dstAddr: B seqNum: 154 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                                                  |
+(|         |     -.|| |_______________________                              |
+ |  ____   \       ||_________||____________  |             ____      ____  |
+/| / __ \   |______||     / __ \   / __ \   | |  
+Packet 470 - srcAddr: B dstAddr: A seqNum: 133 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 471 - srcAddr: A dstAddr: B seqNum: 155 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:           / __ \    / __ \ |\
+\|| /  \ |_______________| /  \ |_| /  \ |__| |___________| /  \ |__| /  \|_|/
+   | () |                 | () |   | () |                  | () |    | () |
+    \__/                   \__/     \__/                    \__/      \
+Packet 472 - srcAddr: B dstAddr: A seqNum: 134 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 473 - srcAddr: A dstAddr: B seqNum: 156 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: __/
+
+                     ____----------- _____
+       \~~~~~~~~~~/~_--~~~------~~~~~     \
+        `---`\  _-~      |                   \
+          _-~  <_         |                     \[]
+        / ___     ~~--[""] |      ________-------'_
+       > /~` 
+Packet 474 - srcAddr: B dstAddr: A seqNum: 135 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 475 - srcAddr: A dstAddr: B seqNum: 157 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: \    |-.   `\~~.~~~~~                _ ~ - _
+        ~|  ||\%  |       |    ~  ._                ~ _   ~ ._
+          `_//|_%  \      |          ~  .              ~-_   /\
+                 `--__     |    _-____  /\               ~-_ \/.
+                   
+Packet 476 - srcAddr: B dstAddr: A seqNum: 136 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 477 - srcAddr: A dstAddr: B seqNum: 158 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:    ~--_ /  ,/ -~-_ \ \/          _______---~/
+                          ~~-/._<   \ \`~~~~~~~~~~~~~     ##--~/
+                                \    ) |`------##---~~~~-~  ) )
+                                 ~-_/_/                  ~~ ~~
+
+                 
+Packet 478 - srcAddr: B dstAddr: A seqNum: 137 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 479 - srcAddr: A dstAddr: B seqNum: 159 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:           _____________________
+        /  .       .      (<$$$$$$>#####<::::::>)
+       .      .     .  _/~~~~~~~~~~~~~~~~~~~~~~~~~\_   .       .   .   \
+    .(          . .  /~                             ~\ . .   .
+      ( . .        .~                 
+Packet 480 - srcAddr: B dstAddr: A seqNum: 138 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 481 - srcAddr: A dstAddr: B seqNum: 160 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                 ~.      .         )
+               ()\/_____                           _____\/()   .    .  ).
+    (         .-''      ~~~~~~~~~~~~~~~~~~~~~~~~~~~     ``-.  ...
+    .  . . .-~              __________________              ~-.  .    /
+     .  
+Packet 482 - srcAddr: B dstAddr: A seqNum: 139 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 483 - srcAddr: A dstAddr: B seqNum: 161 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  ..`~~/~~~~~~~~~~~~TTTTTTTTTTTTTTTTTTTT~~~~~~~~~~~~\~~'    . ) .
+        . .| | | #### #### || | | | [] | | | || #### #### | | | .
+       (   ;__\|___________|++++++++++++++++++|___________|/__;.   .
+         .  (~~====___________________________________==
+Packet 484 - srcAddr: B dstAddr: A seqNum: 140 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 485 - srcAddr: A dstAddr: B seqNum: 162 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ==~~~)
+     ( .  .. \------_____________[ POLICE ]__________-------/ ..  .     )
+             .  |      ||         ~~~~~~~~       ||      |
+                 \_____/                          \_____/
+
+
+
+                                            @
+         
+Packet 486 - srcAddr: B dstAddr: A seqNum: 141 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 487 - srcAddr: A dstAddr: B seqNum: 163 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:                 (__)    (__) _____/
+                      /| (oo) _  (oo)/----/_____    *
+            _o\______/_|\_\/_/_|__\/|____|//////== *- *  * -
+           /_________   \   00 |   00 |       /== -* * -
+          [_____/^^\_____\_____|_____/^^\_____] 
+Packet 488 - srcAddr: B dstAddr: A seqNum: 142 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 489 - srcAddr: A dstAddr: B seqNum: 164 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:     *- * -
+                \__/                 \__/
+
+                       ____________________
+                     //|           |        \
+                   //  |           |          \
+      ___________//____|___________|__________()\_______________
+Packet 490 - srcAddr: B dstAddr: A seqNum: 143 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 491 - srcAddr: A dstAddr: B seqNum: 165 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ___
+    /__________________|_=_________|_=___________|_________________{}
+    [           ______ |           | .           | ==  ______      { }
+  __[__        /##  ##\|           |             |    /##  ##\    _{# }_
+ {_____)______|##    ##|___________|__
+Packet 492 - srcAddr: B dstAddr: A seqNum: 144 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 493 - srcAddr: A dstAddr: B seqNum: 166 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ___________|___|##    ##|__(______}
+             /  ##__##                              /  ##__##        \
+----------------------------------------------------------------------------
+
+          .
+              .  .
+              .  .   .    __            
+Packet 494 - srcAddr: B dstAddr: A seqNum: 145 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 495 - srcAddr: A dstAddr: B seqNum: 167 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:           __
+                    .     ||______________________||
+                 .    .   ||  __________________  ||
+                        / || |           (__)   | ||
+                  .   . / || |           (oo)   | ||
+                      |  -|| | 
+Packet 496 - srcAddr: B dstAddr: A seqNum: 146 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 497 - srcAddr: A dstAddr: B seqNum: 168 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:           _\/_   | ||
+                  .   . \ || |=---------/(())\-\| ||
+                      (\  |\-----------------------\
+                  .    (\ || \_______________________\
+                         \||  |                       |
+                 
+Packet 498 - srcAddr: B dstAddr: A seqNum: 147 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 499 - srcAddr: A dstAddr: B seqNum: 169 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   .      \|  | (O) |-----------| (O) | .
+                           \  |     |-----------|     |       .
+                    .       \ |       PETERBILT       |  .
+                             \|                       |
+                      .      (======
+Packet 500 - srcAddr: B dstAddr: A seqNum: 148 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 501 - srcAddr: A dstAddr: B seqNum: 170 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ===================)
+                              |_||_|             |_||_|
+
+                         .                                 \
+
+                            .                                  \
+
+                 __/___            
+           ___
+Packet 502 - srcAddr: B dstAddr: A seqNum: 149 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 503 - srcAddr: A dstAddr: B seqNum: 171 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: __/______|           
+   _______/_____\_______\_____     
+   \              < < <       |    
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+             /|~~~   
+           ///|      
+         /////|      
+       ///////|      
+     /////////|      
+   \==========
+Packet 504 - srcAddr: B dstAddr: A seqNum: 150 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 505 - srcAddr: A dstAddr: B seqNum: 172 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: |===/  
+~~~~~~~~~~~~~~~~~~~~~
+
+    __|__ |___| |\
+    |o__| |___| | \
+    |___| |___| |o \
+   _|___| |___| |__o\
+  /...\_____|___|____\_/
+  \   o * o * * o o  /
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+         /|\
+       /__| )
+     /____| ))
+   /______| )))
+ /________
+Packet 506 - srcAddr: B dstAddr: A seqNum: 151 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 507 - srcAddr: A dstAddr: B seqNum: 173 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: |  )))
+         _|____))
+ \======| o o /
+~~~~~~~~~~~~~~~~~~~
+
+       I\       
+       I \
+       I  \                
+       I*--\               
+       I    \              
+       I     \             
+       I______\            
+  _____I__O______         
+Packet 508 - srcAddr: B dstAddr: A seqNum: 152 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 509 - srcAddr: A dstAddr: B seqNum: 174 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  
+   \     ( )     b  ^  ^   
+ ^^^^^^^^^^^^^^^^^    ^
+ _____/\____/|            ^
+  >____,\---` \
+
+
+               /|___
+             ///|   ))
+           /////|   )))
+         ///////|    )))
+       /////////|     )))
+     ///////////|     ))))
+   ///////
+Packet 510 - srcAddr: B dstAddr: A seqNum: 153 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 511 - srcAddr: A dstAddr: B seqNum: 175 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: //////|     )))
+  //////////////|    )))
+////////////////|___)))
+  ______________|________
+  \                    /
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+Packet 512 - srcAddr: B dstAddr: A seqNum: 154 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 513 - srcAddr: B dstAddr: A seqNum: 155 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 514 - srcAddr: B dstAddr: A seqNum: 156 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 515 - srcAddr: B dstAddr: A seqNum: 157 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 516 - srcAddr: B dstAddr: A seqNum: 158 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 517 - srcAddr: B dstAddr: A seqNum: 159 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 518 - srcAddr: B dstAddr: A seqNum: 160 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 519 - srcAddr: B dstAddr: A seqNum: 161 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 520 - srcAddr: B dstAddr: A seqNum: 162 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 521 - srcAddr: B dstAddr: A seqNum: 163 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 522 - srcAddr: B dstAddr: A seqNum: 164 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 523 - srcAddr: B dstAddr: A seqNum: 165 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 524 - srcAddr: B dstAddr: A seqNum: 166 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 525 - srcAddr: B dstAddr: A seqNum: 167 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 526 - srcAddr: B dstAddr: A seqNum: 168 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 527 - srcAddr: B dstAddr: A seqNum: 169 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 528 - srcAddr: B dstAddr: A seqNum: 170 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 529 - srcAddr: B dstAddr: A seqNum: 171 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 530 - srcAddr: B dstAddr: A seqNum: 172 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 531 - srcAddr: B dstAddr: A seqNum: 173 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 532 - srcAddr: B dstAddr: A seqNum: 174 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 533 - srcAddr: B dstAddr: A seqNum: 175 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 534 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 1 Received on port: 1 Forwarded on port: 2 Payload: None
+Packet 535 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 1 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 536 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: None
