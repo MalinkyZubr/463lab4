@@ -20,8 +20,9 @@ from packet import Packet
         - if the sequence number is equal to the stored sequence number, store it and send an ack for that sequence number
 """
 
-IS_FINISHED = -1
-IS_UNSENT = -2
+UNSENT = 0
+SENT = 1
+TENATIVE = 2
 class MyClient(Client):
     """Implement a reliable transport"""
 
@@ -41,9 +42,11 @@ class MyClient(Client):
         self.max_in_flight: int = 50
         self.current_in_flight: int = 0
         self.receive_buffer: list = []
-        self.timeout_buffer: list = []
         self.send_buffer: list = []
+        self.timeout_buffer: list = []
+        self.success: list[bool] = []
         self.send_queue: queue.Queue = queue.Queue()
+        self.receiver_timeout: float = 0
 
         """add your own class fields and initialization code here"""
 
@@ -61,8 +64,7 @@ class MyClient(Client):
                 self.link.send(packet, self.addr)  # send ACK packet out into the network
 
         elif packet.ackFlag == 1:
-            self.timeout_buffer[packet.seqNum] = IS_FINISHED
-            self.current_in_flight -= 1
+            self.success[packet.seqNum] = True
 
 
     def receiver_receive(self, packet: Packet):
@@ -88,12 +90,9 @@ class MyClient(Client):
 
         elif packet.ackFlag == 1 and self.connSetup == 0 and self.connTerminate == 0:  # received a data packet
             if packet.seqNum > len(self.receive_buffer) - 1:
-                needed_space = packet.seqNum - len(self.receive_buffer) + 1
-                self.receive_buffer += ["" for x in range(needed_space)]
-            if self.receive_buffer[packet.seqNum] == "":
-                self.receive_buffer[packet.seqNum] = packet.payload
-            ack_packet = Packet("B", "A", packet.seqNum, 0, 0, 1, 0, None)
-            self.send_queue.put(ack_packet)
+                self.receive_buffer += ["" for x in range(packet.seqNum - len(self.receive_buffer) + 1)]
+            self.receive_buffer[packet.seqNum] = packet.payload
+            self.send_queue.put(Packet("B", "A", packet.seqNum, 0, 0, 1, 0, None), self.addr)
 
 
     def handleRecvdPackets(self):
@@ -119,16 +118,13 @@ class MyClient(Client):
         content = self.sendFile.read(self.MSS)
         while content:
             self.send_buffer.append(content)
-            self.timeout_buffer.append(IS_UNSENT)
+            self.success.append(False)
+            self.timeout_buffer.append(0)
             content = self.sendFile.read(self.MSS)
 
     def sender_send_content(self, packet: Packet):
-        if self.timeout_buffer[packet.seqNum] == IS_FINISHED:
-            return
         if self.link:
-            self.total_sends += 1
             self.link.send(packet, self.addr)  # send packet out into the network
-            self.timeout_buffer[packet.seqNum] = time.time()
             self.current_in_flight += 1
 
     def sender_send(self):
@@ -140,39 +136,30 @@ class MyClient(Client):
             self.connSetup = 1
 
         if self.connEstablished == 1 and self.connTerminate == 0:
-            unsent_flag = False
-            for seq_num, tup in enumerate(zip(self.send_buffer, self.timeout_buffer)):
-                content, timer = tup
-                if timer != IS_FINISHED:
-                    unsent_flag = True
-                if timer >= 0 and time.time() - timer > self.send_timeout_minimum: # if timeout incurred, re-insert the content to the send queue
-                    self.send_queue.put(
-                        Packet("A", "B", seq_num, 0, 0, 1, 0, content)
-                    )
-                    self.timeout_buffer[seq_num] = IS_UNSENT
-                if self.current_in_flight < self.max_in_flight:
-                    if timer == IS_UNSENT and self.current_in_flight <= self.max_in_flight:
-                        self.send_queue.put(
-                            Packet("A", "B", seq_num, 0, 0, 1, 0, content)
-                        )
-                    try:
-                        packet = self.send_queue.get(block=False)
-                        self.sender_send_content(packet)
-                    except:
-                        pass
-            if not unsent_flag:
-                # start connection termination
+            if all(self.success):
                 packet = Packet("A", "B", 0, 0, 0, 1, 1, None)  # create a FIN packet
                 if self.link:
                     self.link.send(packet, self.addr)  # send FIN packet out into the network
                 self.connTerminate = 1
+                return
+            for seq_num, content in enumerate(self.send_buffer):
+                if not self.success[seq_num] and self.timeout_buffer[seq_num] != -1:
+                    if self.timeout_buffer[seq_num] == 0 or time.time() - self.timeout_buffer[seq_num] > self.send_timeout:
+                        self.send_queue.put(Packet("A", "B", seq_num, 0, 0, 1, 0, content))
+                        self.timeout_buffer[seq_num] = -1
+            try:
+                packet = self.send_queue.get(block=False)
+                self.timeout_buffer[packet.seqNum] = time.time()
+                self.current_in_flight += 1
+                self.sender_send_content(packet)
+            except:
+                pass
 
     def receiver_send(self):
         try:
             packet = self.send_queue.get(block=False)
             if self.link and packet is not None:
                 self.link.send(packet, self.addr)
-                self.last_send_time = time.time()
         except Exception:
             return
 
