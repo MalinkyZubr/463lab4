@@ -8,8 +8,17 @@ from client import Client
 from packet import Packet
 
 
-def generate_ack_packet() -> Packet:
-    pass
+"""
+1. connection setup
+2. sender assign sequence number
+    * await ack of the same number
+    * if ack not received before timoeut send the same packet again
+    * else, increment the sequence number and send next
+3. receiver awaits for a message
+    * successful receive
+        - if the sequence number is less than the stored sequence number, discard it and send an ack for that packet sequence number
+        - if the sequence number is equal to the stored sequence number, store it and send an ack for that sequence number
+"""
 
 
 class MyClient(Client):
@@ -27,9 +36,19 @@ class MyClient(Client):
         self.recvFile = recvFile
 
         self.last_send_time: float = time.time()
-        self.send_timeout: float = 5
+        self.send_timeout_minimum: float = 5
+        self.send_timeout: float = self.send_timeout_minimum
+        self.total_sends: int = 1
+        self.failed_sends: int = 0
+
+        self.max_in_flight: int = 5
+        self.current_in_flight: int = 0
+        receive_buffer: list = []
+        timeout_buffer: list = []
+
         self.awaiting_ack: bool = False
         self.content: str = ""
+        self.sequence_number: int = 0
         """add your own class fields and initialization code here"""
 
 
@@ -68,10 +87,18 @@ class MyClient(Client):
             self.connTerminate = 0
 
         elif packet.ackFlag == 1 and self.connSetup == 0 and self.connTerminate == 0:  # received a data packet
-            self.recvFile.write(packet.payload)  # write the contents of the packet to recvFile
-            ack_packet = Packet("B", "A", 0, 0, 0, 1, 0, None)
+            if packet.seqNum == self.sequence_number + 1:
+                self.recvFile.write(packet.payload)  # write the contents of the packet to recvFile
+                self.sequence_number = packet.seqNum
+            ack_packet = Packet("B", "A", self.sequence_number, 0, 0, 1, 0, None)
             if self.link:
                 self.link.send(ack_packet, self.addr)
+                self.last_send_time = time.time()
+        # elif time.time() - self.last_send_time >= self.send_timeout_minimum:
+        #     ack_packet = Packet("B", "A", self.sequence_number, 0, 0, 1, 0, None)
+        #     if self.link:
+        #         self.link.send(ack_packet, self.addr)
+
 
     def handleRecvdPackets(self):
         """Handle packets recvd from the network.
@@ -92,6 +119,11 @@ class MyClient(Client):
                 if self.addr == "B":
                     self.receiver_receive(packet)
 
+    def calculate_new_timeout(self):
+        # I decided to dynamically calculate timeouts based on geometric distribution
+        percent_success = 1 - (self.failed_sends / self.total_sends)
+
+
     def sender_send(self):
         if self.connSetup == 0:
             packet = Packet("A", "B", 0, 0, 1, 0, 0, None)  # create a SYN packet
@@ -102,11 +134,16 @@ class MyClient(Client):
         if self.connEstablished == 1 and self.connTerminate == 0:
             if not self.awaiting_ack:
                 self.content = self.sendFile.read(self.MSS)  # read MSS bytes from sendFile
+                self.sequence_number += 1
             elif self.awaiting_ack and time.time() - self.last_send_time <= self.send_timeout:
                 return
+            else:
+                self.failed_sends += 1
             if self.content:
-                packet = Packet("A", "B", 0, 0, 0, 1, 0, self.content)  # create a packet
+                packet = Packet("A", "B", self.sequence_number, 0, 0, 1, 0, self.content)  # create a packet
                 if self.link:
+                    self.total_sends += 1
+
                     self.link.send(packet, self.addr)  # send packet out into the network
                     self.awaiting_ack = True
                     self.last_send_time = time.time()
@@ -132,3 +169,9 @@ class MyClient(Client):
         if self.addr == "B":
             self.receiver_send()
 
+
+# sender: Window size W dynamically sized
+# window is non-contiguous, but sequence numbers always assigned.
+# cumulative ack necessary
+
+# receiver: if the received packet is retransmit duplicate

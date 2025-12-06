@@ -1,167 +1,136 @@
 Packet 1 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 1 ACKFlag: 0 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: None
 Packet 2 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 1 SYNFLag: 1 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
 Packet 3 - srcAddr: A dstAddr: B seqNum: 1 ackNum: 1 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: None
-Packet 4 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload:             ___
-           /\  \
-          /  \/ \
-     ___  \   O /  ___
-    /    \ \   / /    \
-   /   __ -    -  __   \
-  /___/ | <>   <> | \___\                                                     
-  O  ___|    ^    |___  O
-   /     \  -^-  /    \
-  / 
-Packet 5 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:             ___
-           /\  \
-          /  \/ \
-     ___  \   O /  ___
-    /    \ \   / /    \
-   /   __ -    -  __   \
-  /___/ | <>   <> | \___\                                                     
-  O  ___|    ^    |___  O
-   /     \  -^-  /    \
-  / 
-Packet 6 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: DROPPED Payload: None
-Packet 7 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload:             ___
-           /\  \
-          /  \/ \
-     ___  \   O /  ___
-    /    \ \   / /    \
-   /   __ -    -  __   \
-  /___/ | <>   <> | \___\                                                     
-  O  ___|    ^    |___  O
-   /     \  -^-  /    \
-  / 
-Packet 8 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload:             ___
-           /\  \
-          /  \/ \
-     ___  \   O /  ___
-    /    \ \   / /    \
-   /   __ -    -  __   \
-  /___/ | <>   <> | \___\                                                     
-  O  ___|    ^    |___  O
-   /     \  -^-  /    \
-  / 
-Packet 9 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload:             ___
-           /\  \
-          /  \/ \
-     ___  \   O /  ___
-    /    \ \   / /    \
-   /   __ -    -  __   \
-  /___/ | <>   <> | \___\                                                     
-  O  ___|    ^    |___  O
-   /     \  -^-  /    \
-  / 
-Packet 10 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:             ___
-           /\  \
-          /  \/ \
-     ___  \   O /  ___
-    /    \ \   / /    \
-   /   __ -    -  __   \
-  /___/ | <>   <> | \___\                                                     
-  O  ___|    ^    |___  O
-   /     \  -^-  /    \
-  / 
-Packet 11 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: DROPPED Payload: None
-Packet 12 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:             ___
-           /\  \
-          /  \/ \
-     ___  \   O /  ___
-    /    \ \   / /    \
-   /   __ -    -  __   \
-  /___/ | <>   <> | \___\                                                     
-  O  ___|    ^    |___  O
-   /     \  -^-  /    \
-  / 
-Packet 13 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: DROPPED Payload: None
-Packet 14 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:             ___
-           /\  \
-          /  \/ \
-     ___  \   O /  ___
-    /    \ \   / /    \
-   /   __ -    -  __   \
-  /___/ | <>   <> | \___\                                                     
-  O  ___|    ^    |___  O
-   /     \  -^-  /    \
-  / 
-Packet 15 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: DROPPED Payload: None
-Packet 16 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:             ___
-           /\  \
-          /  \/ \
-     ___  \   O /  ___
-    /    \ \   / /    \
-   /   __ -    -  __   \
-  /___/ | <>   <> | \___\                                                     
-  O  ___|    ^    |___  O
-   /     \  -^-  /    \
-  / 
-Packet 17 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: DROPPED Payload: None
-Packet 18 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload:             ___
-           /\  \
-          /  \/ \
-     ___  \   O /  ___
-    /    \ \   / /    \
-   /   __ -    -  __   \
-  /___/ | <>   <> | \___\                                                     
-  O  ___|    ^    |___  O
-   /     \  -^-  /    \
-  / 
-Packet 19 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:             ___
-           /\  \
-          /  \/ \
-     ___  \   O /  ___
-    /    \ \   / /    \
-   /   __ -    -  __   \
-  /___/ | <>   <> | \___\                                                     
-  O  ___|    ^    |___  O
-   /     \  -^-  /    \
-  / 
-Packet 20 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: DROPPED Payload: None
-Packet 21 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:             ___
-           /\  \
-          /  \/ \
-     ___  \   O /  ___
-    /    \ \   / /    \
-   /   __ -    -  __   \
-  /___/ | <>   <> | \___\                                                     
-  O  ___|    ^    |___  O
-   /     \  -^-  /    \
-  / 
-Packet 22 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: DROPPED Payload: None
-Packet 23 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:             ___
-           /\  \
-          /  \/ \
-     ___  \   O /  ___
-    /    \ \   / /    \
-   /   __ -    -  __   \
-  /___/ | <>   <> | \___\                                                     
-  O  ___|    ^    |___  O
-   /     \  -^-  /    \
-  / 
-Packet 24 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 25 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   /\  \_____/ /\   \
-  \_ / /          \ \_ /
-  O   /   /\   /\  \  O
-       \ /  \ /  \ /
-        O    O    O
+Packet 4 - srcAddr: A dstAddr: B seqNum: 1 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: Quod equidem non reprehendo;
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quibus natura iure responderit non esse verum aliunde finem beate vivendi, a se principia rei gerendae peti; Quae enim adhuc protulisti, popularia sunt, ego autem a te el
+Packet 5 - srcAddr: B dstAddr: A seqNum: 1 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 6 - srcAddr: A dstAddr: B seqNum: 2 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: egantiora desidero. Duo Reges: constructio interrete. Tum Lucius: Mihi vero ista valde probata sunt, quod item fratri puto. Bestiarum vero nullum iudicium puto. Nihil enim iam habes, quod ad corpus referas; Deinde prima illa, quae in congressu solemus: Qui
+Packet 7 - srcAddr: B dstAddr: A seqNum: 2 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 8 - srcAddr: A dstAddr: B seqNum: 3 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: d tu, inquit, huc? Et homini, qui ceteris animantibus plurimum praestat, praecipue a natura nihil datum esse dicemus?
 
+Iam id ipsum absurdum, maximum malum neglegi. Quod ea non occurrentia fingunt, vincunt Aristonem; Atqui perspicuum est hominem e corpore 
+Packet 9 - srcAddr: B dstAddr: A seqNum: 3 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 10 - srcAddr: A dstAddr: B seqNum: 4 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload: animoque constare, cum primae sint animi partes, secundae corporis. Fieri, inquam, Triari, nullo pacto potest, ut non dicas, quid non probes eius, a quo dissentias. Equidem e Cn. An dubium est, quin virtus ita maximam partem optineat in rebus humanis, ut r
+Packet 11 - srcAddr: A dstAddr: B seqNum: 4 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: animoque constare, cum primae sint animi partes, secundae corporis. Fieri, inquam, Triari, nullo pacto potest, ut non dicas, quid non probes eius, a quo dissentias. Equidem e Cn. An dubium est, quin virtus ita maximam partem optineat in rebus humanis, ut r
+Packet 12 - srcAddr: B dstAddr: A seqNum: 4 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 13 - srcAddr: A dstAddr: B seqNum: 5 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: eliquas obruat?
 
-Packet 26 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: DROPPED Payload: None
-Packet 27 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload:   /\  \_____/ /\   \
-  \_ / /          \ \_ /
-  O   /   /\   /\  \  O
-       \ /  \ /  \ /
-        O    O    O
+Quis istum dolorem timet?
+Summus dolor plures dies manere non potest? Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Tubulum fuisse, qua illum, cuius is condemnatus est rogatione, P. Quod si ita sit, cur opera philosophiae sit
+Packet 14 - srcAddr: B dstAddr: A seqNum: 5 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 15 - srcAddr: A dstAddr: B seqNum: 6 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  danda nescio.
 
+Ex eorum enim scriptis et institutis cum omnis doctrina liberalis, omnis historia.
+Quod si ita est, sequitur id ipsum, quod te velle video, omnes semper beatos esse sapientes. Cum enim fertur quasi torrens oratio, quamvis multa cuiusque mod
+Packet 16 - srcAddr: B dstAddr: A seqNum: 6 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 17 - srcAddr: A dstAddr: B seqNum: 7 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: i rapiat, nihil tamen teneas, nihil apprehendas, nusquam orationem rapidam coerceas. Ita redarguitur ipse a sese, convincunturque scripta eius probitate ipsius ac moribus. At quanta conantur! Mundum hunc omnem oppidum esse nostrum! Incendi igitur eos, qui 
+Packet 18 - srcAddr: B dstAddr: A seqNum: 7 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 19 - srcAddr: A dstAddr: B seqNum: 8 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: audiunt, vides. Vide, ne magis, inquam, tuum fuerit, cum re idem tibi, quod mihi, videretur, non nova te rebus nomina inponere. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Si ista mala sunt, in quae potest incidere sapiens, sapientem es
+Packet 20 - srcAddr: B dstAddr: A seqNum: 8 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 21 - srcAddr: A dstAddr: B seqNum: 9 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: se non esse ad beate vivendum satis. At vero si ad vitem sensus accesserit, ut appetitum quendam habeat et per se ipsa moveatur, quid facturam putas?
 
-Packet 28 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:   /\  \_____/ /\   \
-  \_ / /          \ \_ /
-  O   /   /\   /\  \  O
-       \ /  \ /  \ /
-        O    O    O
+Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.
+Stulti autem malorum memor
+Packet 22 - srcAddr: B dstAddr: A seqNum: 9 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 23 - srcAddr: A dstAddr: B seqNum: 10 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ia torquentur, sapientes bona praeterita grata recordatione renovata delectant.
+Esse enim quam vellet iniquus iustus poterat inpune.
+Quae autem natura suae primae institutionis oblita est?
+Verum tamen cum de rebus grandioribus dicas, ipsae res verba rapiun
+Packet 24 - srcAddr: B dstAddr: A seqNum: 10 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 25 - srcAddr: A dstAddr: B seqNum: 11 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: t;
+Hoc est non modo cor non habere, sed ne palatum quidem.
+Voluptatem cum summum bonum diceret, primum in eo ipso parum vidit, deinde hoc quoque alienum; Sed tu istuc dixti bene Latine, parum plane. Nam haec ipsa mihi erunt in promptu, quae modo audivi, ne
+Packet 26 - srcAddr: B dstAddr: A seqNum: 11 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: DROPPED Payload: None
+Packet 27 - srcAddr: A dstAddr: B seqNum: 11 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: t;
+Hoc est non modo cor non habere, sed ne palatum quidem.
+Voluptatem cum summum bonum diceret, primum in eo ipso parum vidit, deinde hoc quoque alienum; Sed tu istuc dixti bene Latine, parum plane. Nam haec ipsa mihi erunt in promptu, quae modo audivi, ne
+Packet 28 - srcAddr: B dstAddr: A seqNum: 11 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 29 - srcAddr: A dstAddr: B seqNum: 12 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload: c ante aggrediar, quam te ab istis, quos dicis, instructum videro. Fatebuntur Stoici haec omnia dicta esse praeclare, neque eam causam Zenoni desciscendi fuisse. Non autem hoc: igitur ne illud quidem. Ratio quidem vestra sic cogit. Cum audissem Antiochum, 
+Packet 30 - srcAddr: A dstAddr: B seqNum: 12 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload: c ante aggrediar, quam te ab istis, quos dicis, instructum videro. Fatebuntur Stoici haec omnia dicta esse praeclare, neque eam causam Zenoni desciscendi fuisse. Non autem hoc: igitur ne illud quidem. Ratio quidem vestra sic cogit. Cum audissem Antiochum, 
+Packet 31 - srcAddr: A dstAddr: B seqNum: 12 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: c ante aggrediar, quam te ab istis, quos dicis, instructum videro. Fatebuntur Stoici haec omnia dicta esse praeclare, neque eam causam Zenoni desciscendi fuisse. Non autem hoc: igitur ne illud quidem. Ratio quidem vestra sic cogit. Cum audissem Antiochum, 
+Packet 32 - srcAddr: B dstAddr: A seqNum: 12 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 33 - srcAddr: A dstAddr: B seqNum: 13 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: Brute, ut solebam, cum M. An quod ita callida est, ut optime possit architectari voluptates?
 
+Idemne, quod iucunde?
+Haec mihi videtur delicatior, ut ita dicam, molliorque ratio, quam virtutis vis gravitasque postulat. Sed quoniam et advesperascit et mihi a
+Packet 34 - srcAddr: B dstAddr: A seqNum: 13 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: DROPPED Payload: None
+Packet 35 - srcAddr: A dstAddr: B seqNum: 13 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: Brute, ut solebam, cum M. An quod ita callida est, ut optime possit architectari voluptates?
 
-Packet 29 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 30 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 1 Received on port: 1 Forwarded on port: 2 Payload: None
-Packet 31 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 1 Received on port: 2 Forwarded on port: 1 Payload: None
-Packet 32 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: None
+Idemne, quod iucunde?
+Haec mihi videtur delicatior, ut ita dicam, molliorque ratio, quam virtutis vis gravitasque postulat. Sed quoniam et advesperascit et mihi a
+Packet 36 - srcAddr: B dstAddr: A seqNum: 13 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 37 - srcAddr: A dstAddr: B seqNum: 14 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: d villam revertendum est, nunc quidem hactenus; Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur. Neque solum ea communia, verum etiam paria esse dixerunt. Sed nunc, quod agimus; A mene tu?
+
+Quod equidem non reprehendo;
+Lorem ipsum 
+Packet 38 - srcAddr: B dstAddr: A seqNum: 14 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 39 - srcAddr: A dstAddr: B seqNum: 15 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: dolor sit amet, consectetur adipiscing elit. Quibus natura iure responderit non esse verum aliunde finem beate vivendi, a se principia rei gerendae peti; Quae enim adhuc protulisti, popularia sunt, ego autem a te elegantiora desidero. Duo Reges: constructi
+Packet 40 - srcAddr: B dstAddr: A seqNum: 15 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: DROPPED Payload: None
+Packet 41 - srcAddr: A dstAddr: B seqNum: 15 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: dolor sit amet, consectetur adipiscing elit. Quibus natura iure responderit non esse verum aliunde finem beate vivendi, a se principia rei gerendae peti; Quae enim adhuc protulisti, popularia sunt, ego autem a te elegantiora desidero. Duo Reges: constructi
+Packet 42 - srcAddr: B dstAddr: A seqNum: 15 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 43 - srcAddr: A dstAddr: B seqNum: 16 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: o interrete. Tum Lucius: Mihi vero ista valde probata sunt, quod item fratri puto. Bestiarum vero nullum iudicium puto. Nihil enim iam habes, quod ad corpus referas; Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc? Et homini, qui ceteris
+Packet 44 - srcAddr: B dstAddr: A seqNum: 16 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 45 - srcAddr: A dstAddr: B seqNum: 17 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload:  animantibus plurimum praestat, praecipue a natura nihil datum esse dicemus?
+
+Iam id ipsum absurdum, maximum malum neglegi. Quod ea non occurrentia fingunt, vincunt Aristonem; Atqui perspicuum est hominem e corpore animoque constare, cum primae sint animi 
+Packet 46 - srcAddr: A dstAddr: B seqNum: 17 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload:  animantibus plurimum praestat, praecipue a natura nihil datum esse dicemus?
+
+Iam id ipsum absurdum, maximum malum neglegi. Quod ea non occurrentia fingunt, vincunt Aristonem; Atqui perspicuum est hominem e corpore animoque constare, cum primae sint animi 
+Packet 47 - srcAddr: A dstAddr: B seqNum: 17 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  animantibus plurimum praestat, praecipue a natura nihil datum esse dicemus?
+
+Iam id ipsum absurdum, maximum malum neglegi. Quod ea non occurrentia fingunt, vincunt Aristonem; Atqui perspicuum est hominem e corpore animoque constare, cum primae sint animi 
+Packet 48 - srcAddr: B dstAddr: A seqNum: 17 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 49 - srcAddr: A dstAddr: B seqNum: 18 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: partes, secundae corporis. Fieri, inquam, Triari, nullo pacto potest, ut non dicas, quid non probes eius, a quo dissentias. Equidem e Cn. An dubium est, quin virtus ita maximam partem optineat in rebus humanis, ut reliquas obruat?
+
+Quis istum dolorem timet
+Packet 50 - srcAddr: B dstAddr: A seqNum: 18 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 51 - srcAddr: A dstAddr: B seqNum: 19 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload: ?
+Summus dolor plures dies manere non potest? Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Tubulum fuisse, qua illum, cuius is condemnatus est rogatione, P. Quod si ita sit, cur opera philosophiae sit danda nescio.
+
+Ex eorum enim scriptis et
+Packet 52 - srcAddr: A dstAddr: B seqNum: 19 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ?
+Summus dolor plures dies manere non potest? Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Tubulum fuisse, qua illum, cuius is condemnatus est rogatione, P. Quod si ita sit, cur opera philosophiae sit danda nescio.
+
+Ex eorum enim scriptis et
+Packet 53 - srcAddr: B dstAddr: A seqNum: 19 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 54 - srcAddr: A dstAddr: B seqNum: 20 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload:  institutis cum omnis doctrina liberalis, omnis historia.
+Quod si ita est, sequitur id ipsum, quod te velle video, omnes semper beatos esse sapientes. Cum enim fertur quasi torrens oratio, quamvis multa cuiusque modi rapiat, nihil tamen teneas, nihil appre
+Packet 55 - srcAddr: A dstAddr: B seqNum: 20 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: DROPPED Payload:  institutis cum omnis doctrina liberalis, omnis historia.
+Quod si ita est, sequitur id ipsum, quod te velle video, omnes semper beatos esse sapientes. Cum enim fertur quasi torrens oratio, quamvis multa cuiusque modi rapiat, nihil tamen teneas, nihil appre
+Packet 56 - srcAddr: A dstAddr: B seqNum: 20 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload:  institutis cum omnis doctrina liberalis, omnis historia.
+Quod si ita est, sequitur id ipsum, quod te velle video, omnes semper beatos esse sapientes. Cum enim fertur quasi torrens oratio, quamvis multa cuiusque modi rapiat, nihil tamen teneas, nihil appre
+Packet 57 - srcAddr: B dstAddr: A seqNum: 20 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 58 - srcAddr: A dstAddr: B seqNum: 21 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: hendas, nusquam orationem rapidam coerceas. Ita redarguitur ipse a sese, convincunturque scripta eius probitate ipsius ac moribus. At quanta conantur! Mundum hunc omnem oppidum esse nostrum! Incendi igitur eos, qui audiunt, vides. Vide, ne magis, inquam, t
+Packet 59 - srcAddr: B dstAddr: A seqNum: 21 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: DROPPED Payload: None
+Packet 60 - srcAddr: A dstAddr: B seqNum: 21 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: hendas, nusquam orationem rapidam coerceas. Ita redarguitur ipse a sese, convincunturque scripta eius probitate ipsius ac moribus. At quanta conantur! Mundum hunc omnem oppidum esse nostrum! Incendi igitur eos, qui audiunt, vides. Vide, ne magis, inquam, t
+Packet 61 - srcAddr: B dstAddr: A seqNum: 21 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 62 - srcAddr: A dstAddr: B seqNum: 22 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: uum fuerit, cum re idem tibi, quod mihi, videretur, non nova te rebus nomina inponere. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Si ista mala sunt, in quae potest incidere sapiens, sapientem esse non esse ad beate vivendum satis. At v
+Packet 63 - srcAddr: B dstAddr: A seqNum: 22 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: DROPPED Payload: None
+Packet 64 - srcAddr: A dstAddr: B seqNum: 22 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: uum fuerit, cum re idem tibi, quod mihi, videretur, non nova te rebus nomina inponere. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Si ista mala sunt, in quae potest incidere sapiens, sapientem esse non esse ad beate vivendum satis. At v
+Packet 65 - srcAddr: B dstAddr: A seqNum: 22 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 66 - srcAddr: A dstAddr: B seqNum: 23 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: ero si ad vitem sensus accesserit, ut appetitum quendam habeat et per se ipsa moveatur, quid facturam putas?
+
+Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.
+Stulti autem malorum memoria torquentur, sapientes bona praeterita 
+Packet 67 - srcAddr: B dstAddr: A seqNum: 23 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 68 - srcAddr: A dstAddr: B seqNum: 24 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: grata recordatione renovata delectant.
+Esse enim quam vellet iniquus iustus poterat inpune.
+Quae autem natura suae primae institutionis oblita est?
+Verum tamen cum de rebus grandioribus dicas, ipsae res verba rapiunt;
+Hoc est non modo cor non habere, sed n
+Packet 69 - srcAddr: B dstAddr: A seqNum: 24 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 70 - srcAddr: A dstAddr: B seqNum: 25 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: e palatum quidem.
+Voluptatem cum summum bonum diceret, primum in eo ipso parum vidit, deinde hoc quoque alienum; Sed tu istuc dixti bene Latine, parum plane. Nam haec ipsa mihi erunt in promptu, quae modo audivi, nec ante aggrediar, quam te ab istis, quos 
+Packet 71 - srcAddr: B dstAddr: A seqNum: 25 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 72 - srcAddr: A dstAddr: B seqNum: 26 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: dicis, instructum videro. Fatebuntur Stoici haec omnia dicta esse praeclare, neque eam causam Zenoni desciscendi fuisse. Non autem hoc: igitur ne illud quidem. Ratio quidem vestra sic cogit. Cum audissem Antiochum, Brute, ut solebam, cum M. An quod ita cal
+Packet 73 - srcAddr: B dstAddr: A seqNum: 26 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 74 - srcAddr: A dstAddr: B seqNum: 27 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: lida est, ut optime possit architectari voluptates?
+
+Idemne, quod iucunde?
+Haec mihi videtur delicatior, ut ita dicam, molliorque ratio, quam virtutis vis gravitasque postulat. Sed quoniam et advesperascit et mihi ad villam revertendum est, nunc quidem hac
+Packet 75 - srcAddr: B dstAddr: A seqNum: 27 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 76 - srcAddr: A dstAddr: B seqNum: 28 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: tenus; Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur. Neque solum ea communia, verum etiam paria esse dixerunt. Sed nunc, quod agimus; A mene tu?
+Packet 77 - srcAddr: B dstAddr: A seqNum: 28 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 78 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 1 Received on port: 1 Forwarded on port: 2 Payload: None
+Packet 79 - srcAddr: B dstAddr: A seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 1 Received on port: 2 Forwarded on port: 1 Payload: None
+Packet 80 - srcAddr: A dstAddr: B seqNum: 0 ackNum: 0 SYNFLag: 0 ACKFlag: 1 FINFlag: 0 Received on port: 1 Forwarded on port: 2 Payload: None
